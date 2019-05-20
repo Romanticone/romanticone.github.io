@@ -1,0 +1,70 @@
+<div class="row">
+  <div class="col-md-12">
+    <h1 class="title-first">Current Students</h1>
+    <div class="row vspace-1" ng-repeat="m in members" ng-if="!m.alumni">
+      <div class="col-md-2">
+        <img ng-src="img/{{m.avatar}}" class="img-responsive vspace-3 border-1 stretch" alt="{{m.name}}">
+      </div>
+      <div class="col-md-10">
+        <p class="font-style-2">{{m.name}}</p>
+        <p ng-bind-html="m.intro"></p>
+        <p ng-if="m.publication.length > 0">Publication:</p>
+        <p ng-repeat="p in m.publication">
+          {{p.author}} <a href="files/{{p.link}}">{{p.title}}</a> {{p.source}}
+        </p>
+        <p ng-if="m.honor.length > 0">Award/Honor:</p>
+        <p ng-repeat="h in m.honor">{{h}}</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <h1 class="title-first">Alumni</h1>
+    <div class="row vspace-1" ng-repeat="m in members" ng-if="m.alumni">
+      <div class="col-md-2">
+        <img ng-src="img/{{m.avatar}}" class="img-responsive vspace-3 border-1 stretch" alt="{{m.name}}">
+      </div>
+      <div class="col-md-10">
+        <p class="font-style-2">{{m.name}}</p>
+        <p ng-bind-html="m.intro"></p>
+        <p ng-if="m.publication.length > 0">Publication:</p>
+        <p ng-repeat="p in m.publication">
+          {{p.author}} <a href="files/{{p.link}}">{{p.title}}</a> {{p.source}}
+        </p>
+        <p ng-if="m.honor.length > 0">Award/Honor:</p>
+        <p ng-repeat="h in m.honor">{{h}}</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h1 class="title">Graduate Assistantship Opportunities</h1>
+<p>We encourage and welcome the best talents to join us as graduate research assistants for M.S. or Ph.D. degrees, contributing to high-impact research, including but not limited to: intermodal freight, logistics systems analysis, transportation safety (rail, highway and maritime), network modeling and infrastructure management.</p>
+<h3>Qualifications</h3>
+<ul>
+  <li>Major in Transportation Engineering, Civil Engineering, Industrial Engineering, Statistics, Mathematics, Computer Science or related areas</li>
+  <li>Experience in probability, statistics, operations research, optimization or computer programming is preferred but not required</li>
+</ul>
+<ul>
+  <li>Full tuition waiver, full stipend and other related university benefits</li>
+  <li>Opportunities to work with faculty in the CEE and national transportation research center (CAIT) at Rutgers, on high-profile projects funded by government and private agencies</li>
+  <li>Financial support to attend conferences to present research and interact with global researchers and industry professionals</li>
+  <li>Career opportunities in research institutions, logistics companies and consulting firms</li>
+</ul>
+<h3>Application Guidelines and Deadlines</h3>
+<ul>
+  <li>Detailed application information can be found at <a href="http://gradstudy.rutgers.edu/apply/overview">http://gradstudy.rutgers.edu/apply/overview</a></li>
+  <li>Required application materiaials</li>
+  <ul>
+    <li>Transcript, CV, personal statement, 3 recommendation letters</li>
+    <li>TOEFL and GRE test scores</li>
+  </ul>
+  <li>Application deadlines</li>
+  <ul>
+    <li>Master Degree: <a href="https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?code=16180&degree=MS">https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?code=16180&amp;degree=MS</a></li>
+    <li>Ph.D. Degree: <a href="https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?code=16180&degree=PHD">https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?code=16180&amp;degree=PHD</a></li>
+  </ul>
+</ul>
+<p>The interested applicant may contact Professor Xiang Liu via email (xiang.liu@rutgers.edu), attaching his/her CV and transcript. However, the final decision will not be made until the applicant completes official application process through Rutgers University.</p>

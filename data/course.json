@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Fall 2014 - Freight Transportation Systems",
+    "content": "This advanced, graduate-level course provides an introduction to multimodal (rail, road, waterway) freight transportation systems. This course comprises three inter-connected parts: 1) introduce basic modal-specific concepts and industry development; 2) explain widely used modeling techniques used in freight transportation and logistics; and 3) apply the methodologies to an emerging high-profile transportation research topic through a term project.",
+    "figure": "teach1.png"
+  },
+  {
+    "title": "Spring 2015 - Rail Transportation System",
+    "content": "This course covers the fundamentals of railroad transportation and engineering. The topics include railroad efficiency and economics, track infrastructure, rail vehicle, traffic control system, highway-rail grade crossing, and railroad safety.",
+    "figure": "teach2.jpg"
+  },
+  {
+    "title": "Fall 2015 - Engineering Risk Analysis in Transportation Systems",
+    "content": "This course provides an introduction to the concepts, theories, methodologies and applications of engineering risk analysis in the context of multimodal transportation safety. Upon successful completion of this course, students would be able to perform mode-specific and multimodal transportation engineering risk analyses.",
+    "figure": "teach3.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Accident Analysis and Prevention",
+    "content": "Safety is the top priority for any mode of transportation. I am interested in understanding the cause, frequency, severity and prevention of the transportation accident from statistical perspectives. Most of my previous work focused on train accident analysis and prevention. I used the historical accident data to identify major accident causes (Liu et al. 2011, 2012), to assess their severities (Liu et al. 2013a),  to evaluate the effectiveness of  technologies and management strategies to prevent major causes (Liu et al. 2014a), to statistically define and measure train operational safety (Liu 2015)."
+  }, 
+  {
+    "title": "Transportation Infrastructure Management",
+    "content": "The United States has world-class freight railroad systems. A large portion of U.S. freight-train derailments were caused by infrastructure failures. Therefore, my second research thrust lies in infrastructure risk management. I began with an analysis of railroad track quality upgrade for reducing accident risk (Liu et al. 2011), and continued with development of an optimization model to determine the timing for inspecting tracks accounting for infrastructure characteristics (Liu et al. 2014a), and season (Liu et al. 2013). The ultimate goal of these studies is to assist the Federal Railroad Administration and the railroad industry to develop better-informed infrastructure management policies and industry standards."
+  },
+  {
+    "title": "Freight Transportation Risk Analysis",
+    "content": "Built upon my work in accident safety and infrastructure risk management, I developed a number of probabilistic risk models to evaluate and manage the safety risk associated with rail transport of hazardous materials, particularly petroleum crude oil. One challenge is how to model the interactions among multiple risk mitigation strategies. To address this challenge, I developed an integrated risk management framework, accounting for the safety benefits (Liu et al. 2013a) and costs (Liu et al. 2013b) of various risk reduction alternatives, individually or in combination. Recently, I am working on crude oil by rail risk analysis and developed a new probabilistic model (Liu et al. 2014b) to estimate the likelihood of a crude oil release incident at any specific location on U.S. rail network. That model has been used by the railroad industry in developed new tank car standards. My current work proposes a new risk model to analyze dependent tank car release probabilities within the same train accident."
+  },
+  {
+    "title": "Applied Statistics and Data Sciences",
+    "content": "I am very interested in exploring the use of advanced statistical and data mining techniques in transportation engineering. Currently, I am collaborating with researchers in statistical science and computer science to develop better solutions to discovering useful information from massive transportation data."
+  }
+]

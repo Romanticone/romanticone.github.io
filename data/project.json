@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Evaluation of Raised Pavement Markers (RPMs)",
+    "content": "This research evaluates the safety effects of raised pavement makers, and identify their optimal implementation and promosing alternatives or modifications. The work is sponsored by New Jersey Department of Transportation.",
+    "figure": "project1.jpg",
+    "link": ""
+  },
+  {
+    "title": "Hazardous Materials Transportation Risk Analysis Tool",
+    "content": "This project develops a GIS-based risk assessment tool for rail transport of flammable liquids. The tool estimates the average recurrence interval of a release incident, and the affected population. This work is sponsored by the Center for Advanced Infrastructure and Transportation (CAIT) at Rutgers University.",
+    "figure": "project2.png",
+    "link": "http://54.85.29.58:8080/railrisk/index.html"
+  },
+  {
+    "title": "Risk-Based Rail Defect Inspection and Repair",
+    "content": "This research develops a simulator that can evaluate rail failure risk under alternative inspection and repair strategies. The simulator incorporates the random processes of rail defect formation, growth, detection and removal.",
+    "figure": "project3.png",
+    "link": "http://www.railsimulator.rutgers.com.s3-website-us-east-1.amazonaws.com/"
+  },
+  {
+    "title": "Risk-Based Ultrasonic Rail Testing Frequency",
+    "content": "This web-based tool recommends annual frequency for ultrasonic rail testing on a particular segment, based on allowable rail failure rate, inspection results in the prior year, and traffic density.",
+    "figure": "project4.png",
+    "link": "http://www.railtestfreq.rutgers.com.s3-website-us-east-1.amazonaws.com/"
+  },
+  {
+    "title": "Statistical Comparison of Train Accident Rates",
+    "content": "This tool is used for measuring railroad safety by applying statistical approaches on comparing railroad accident rates. It can potentially assist in development of an industry-wide railroad safety evaluation and management system.",
+    "figure": "project5.png",
+    "link": "http://54.85.29.58:5000"
+  }
+]

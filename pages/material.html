@@ -1,0 +1,10 @@
+<div ng-repeat="m in materials">
+<h1 class="link-color">
+  <div ng-if="m.link.length > 0">
+    <a href="files/{{m.link}}">{{m.title}}</a>
+    <span class="glyphicon glyphicon-paperclip" aria-hidden="true" style="font-size:20px;"></span>
+  </div>
+  <span ng-if="m.link.length <= 0">{{m.title}}</span>
+</h1>
+  <p ng-bind-html="m.content"></p>
+</div>

@@ -1,0 +1,12 @@
+<h1 class="title-first">Teaching</h1>
+<div class="vspace-2" ng-repeat="c in courses">
+  <h2 class="subtitle">{{c.title}}</h2>
+  <div class="row">
+    <div class="col-md-6">
+      <img ng-src="img/{{c.figure}}" class="img-responsive border-1" alt="{{c.title}}">
+    </div>
+    <div class="col-md-6">
+      <p>{{c.content}}</p>
+    </div>
+  </div>
+</div>
