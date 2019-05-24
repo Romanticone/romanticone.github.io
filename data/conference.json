@@ -1,152 +1,38 @@
 [
   {
-    "author": "<span class='font-bold'>Liu, X.</span> (2016).",
-    "title": "Risk-based rail defect inspection and repair strategies.",
+    "author": "<span class='font-bold'>Wang, G.</span>, Chen, X., Zhang, F., Wang, Y., & Zhang, D. (2018).",
+    "title": "Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks.",
     "link": "",
-    "source": "11th World Congress on Railway Research, Milan, Italy."
+    "source": "In Proceedings of the 25th Annual International Conference on Mobile Computing and Networking (MobiCom). ACM."
   },
   {
-    "author": "<span class='font-bold'>Liu, X.</span>, Dick. C.T. (2016).",
-    "title": "Risk-based optimization of rail defect inspection frequency for petroleum crude oil transportation.",
+    "author": "<span class='font-bold'>Wang, G.</span>, Xie, X., Zhang, F., Liu, Y., & Zhang, D. (2018).",
+    "title": "bCharge: Data-Driven Real-Time Charging Scheduling for Large-Scale Electric Bus Fleets.",
     "link": "",
-    "source": "Proceedings of Annual Meeting of Transportation Research Board, Washington D.C."
+    "source": "In 2018 IEEE Real-Time Systems Symposium (RTSS)."
   },
   {
-    "author": "<span class='font-bold'>Liu, X.</span> (2016). ",
-    "title": "Collision risk analysis of freight railroads in the United States, 2000 to 2014. ",
+    "author": "Xie, X., Yang, Y., Fang, Z., <span class='font-bold'>Wang, G.</span>, Zhang, F., Zhang, F., Liu, Y. and Zhang, D. (2019)",
+    "title": "coSense: Collaborative Urban-Scale Vehicle Sensing Based on Heterogeneous Fleets",
     "link": "",
-    "source": "Proceedings of Annual Meeting of Transportation Research Board, Washington D.C."
+    "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp) 2019."
   },
   {
-    "author": "<span class='font-bold'>Liu, X.</span> (2016). ",
-    "title": "Risk analysis of transporting crude oil by rail: methodology and decision support system. ",
+    "author": "<Lin, C., span class='font-bold'>Wang, G.*</span> (2017)",
+    "title": "Failure Cause Extraction of Railway Switches Based on Text Mining.",
     "link": "",
-    "source": "Proceedings of Annual Meeting of Transportation Research Board, Washington D.C."
+    "source": " In Proceedings of the 2017 International Conference on Computer Science and Artificial Intelligence (ACM CSAI)."
   },
   {
-    "author": "Zhou, K., Chen, J.H., <span class='font-bold'>Liu, X.</span> (2016). ",
-    "title": "Risk-based ship collision-avoidance maneuvers under the optimal fuel use. ",
+    "author": "<span class='font-bold'>Wang, G.</span>, Xu, T., Wang, H., & Zou, Y. (2016).",
+    "title": "AdaBoost and least square based failure prediction of railway turnouts.",
     "link": "",
-    "source": "Proceedings of Annual Meeting of Transportation Research Board, Washington D.C."
+    "source": "In 2016 9th IEEE International Symposium on Computational Intelligence and Design (ISCID)."
   },
   {
-    "author": "Wang, Y.L., <span class='font-bold'>Liu, X.</span> (2016). ",
-    "title": "Risk Analysis of U.S. Freight-Train Collisions 2000 to 2014. ",
+    "author": "Xu, T., <span class='font-bold'>Wang, G.</span>, & Wang, H. (2016). ",
+    "title": "Multiple Fault Diagnosis and Prognosis of Chinese Train Control Systems.",
     "link": "",
-    "source": "Joint Rail Conference, Columbia, South Carolina (under review)."
-  },
-  {
-    "author": "Hu, C., <span class='font-bold'>Liu, X.</span> (2016). ",
-    "title": "Modeling track geometry degradation using data mining techniques. ",
-    "link": "",
-    "source": "Joint Rail Conference, Columbia, South Carolina (under review)."
-  },
-  {
-    "author": "Ma, L., <span class='font-bold'>Liu, X.</span> (2016). ",
-    "title": "Spatial risk analysis of U.S. freight-train derailments. ",
-    "link": "",
-    "source": "Joint Rail Conference, Columbia, South Carolina (under review)."
-  },
-  {
-    "author": "<span class='font-bold'>Liu, X.</span>, Qin, Y.B. (2016). ",
-    "title": "Scheduling of rail defect inspection and repair using simulation-based risk analysis. ",
-    "link": "",
-    "source": "Joint Rail Conference, Columbia, South Carolina (under review)."
-  },
-  {
-    "author": "Ben-Gera, T., He, J.B., <span class='font-bold'>Liu, X.</span> (2016). ",
-    "title": "Modeling broken rail caused derailment risk. ",
-    "link": "",
-    "source": "Joint Rail Conference, Columbia, South Carolina (under review)."
-  },
-  {
-    "author": "He, J.B., Ben-Gera, T., <span class='font-bold'>Liu, X.</span> (2016). ",
-    "title": "Modeling track geometry defect caused derailment risk. ",
-    "link": "",
-    "source": "Joint Rail Conference, Columbia, South Carolina (under review)."
-  },
-  {
-    "author": "<span class='font-bold'>Liu, X.</span>, 2015. ",
-    "title": "Statistical temporal analysis of freight-train derailment rates in the United States: 2000 to 2012.",
-    "link": "",
-    "source": "Proceedings of 94th Annual Meeting of Transportation Research Board, Washington D.C."
-  },
-  {
-    "author": "<span class='font-bold'>Liu, X.</span>, C.T. Dick, M.R. Saat, 2014. ",
-    "title": "Optimizing the frequency of ultrasonic rail defect inspection to improve transportation safety and efficiency. ",
-    "link": "",
-    "source": "Second Transportation and Development Institute (T&DI) Congress, Orlando, Florida. "
-  },
-  {
-    "author": "<span class='font-bold'>Liu, X.</span>, M.R. Saat, C.P.L. Barkan, 2014. ",
-    "title": "Optimization of rail defect inspection frequency to reduce railroad hazardous materials transportation risk. ",
-    "link": "",
-    "source": "Proceedings of 93nd Annual Meeting of Transportation Research Board, Washington D.C."
-  },
-  {
-    "author": "Serrano, J.A., <span class='font-bold'>Liu, X.</span>, M.R. Saat, 2014. ",
-    "title": "Methodology to evaluate the consequence of hazardous material releases from multiple tank cars involved in train accidents. ",
-    "link": "",
-    "source": "Proceedings of 93nd Annual Meeting of Transportation Research Board, Washington D.C."
-  },
-  {
-    "author": "<span class='font-bold'>Liu, X.</span>, C.T. Dick, A. Lovett, M.R. Saat, C.P.L. Barkan, 2013. ",
-    "title": "Seasonal effect on the optimization of rail defect inspection frequency. ",
-    "link": "",
-    "source": "Proceedings of the American Society of Mechanical Engineers (ASME) Rail Transportation Division Fall Technical Conference, Altoona, Pennsylvania."
-  },
-  {
-    "author": "<span class='font-bold'>Liu, X.</span>, M.R. Saat, C.P.L. Barkan, 2013. ",
-    "title": "Integrated risk management framework for improving the safety of hazardous materials transportation by rail. ",
-    "link": "",
-    "source": "World Congress on Railway Research, Sydney, Australia."
-  },
-  {
-    "author": "<span class='font-bold'>Liu, X.</span>, M.R. Saat, C.P.L. Barkan, 2013. ",
-    "title": "Safety effectiveness of integrated accident prevention strategies. ",
-    "link": "",
-    "source": "Proceedings of the ASME-IEEE-ASCE-AREMA-TRB-APTA-INFORMS Joint Rail Conference. Knoxville, TN. "
-  },
-  {
-    "author": "<span class='font-bold'>Liu, X.</span>, M.R. Saat, C.P.L. Barkan, 2013. ",
-    "title": "Analysis of major derailment causes on heavy haul railways in the United States. ",
-    "link": "",
-    "source": "International Heavy Haul Association Conference, New Delhi, India."
-  },
-  {
-    "author": "<span class='font-bold'>Liu, X.</span>, M.R. Saat, C.P.L. Barkan, 2013. ",
-    "title": "Safety effectiveness of integrated risk reduction strategies for the transportation of hazardous materials by rail. ",
-    "link": "",
-    "source": "Proceedings of 92nd Annual Meeting of Transportation Research Board, Washington D.C."
-  },
-  {
-    "author": "<span class='font-bold'>Liu, X.</span>, M.R. Saat, C.P.L. Barkan, 2013. ",
-    "title": "A framework for evaluating cost-effectiveness of accident prevention strategies under uncertainty.",
-    "link": "",
-    "source": "Proceedings of 92nd Annual Meeting of Transportation Research Board, Washington D.C."
-  },
-  {
-    "author": "A. A. Shurpali, J.R. Edwards, R.G. Kernes, <span class='font-bold'>Liu, X.</span>, D.A. Lange, C.P.L. Barkan, 2013. ",
-    "title": "Investigation of material improvements to mitigate the effects of abrasion mechanism of concrete crosstie rail seat deterioration (RSD). ",
-    "link": "",
-    "source": "Proceedings of 92ndAnnual Meeting of Transportation Research Board, Washington D.C."
-  },
-  {
-    "author": "<span class='font-bold'>Liu, X.</span>, M.R. Saat, C.P.L. Barkan, 2011. ",
-    "title": "Benefit-cost analysis of heavy haul railway track upgrade for derailment prevention. ",
-    "link": "",
-    "source": "International Heavy Haul Association Conference, Calgary, Canada."
-  },
-  {
-    "author": "<span class='font-bold'>Liu, X.</span>, M.R. Saat, C.P.L. Barkan, 2010. ",
-    "title": "Benefit-cost analysis of railway infrastructure improvement for derailment prevention. ",
-    "link": "",
-    "source": "Proceedings of the ASME-IEEE-ASCE-AREMA-TRB Joint Rail Conference, Urbana, IL. "
-  },
-  {
-    "author": "Wan, Z., <span class='font-bold'>Liu, X.</span>, 2009. ",
-    "title": "Chinese railways transportation: opportunity and challenge. ",
-    "link": "",
-    "source": "Proceedings of 88th Annual Meeting of Transportation Research Board, Washington D.C."
+    "source": "1st International Workshop on Structural Health Monitoring for Railway System."
   }
 ]
