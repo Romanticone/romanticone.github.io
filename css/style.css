@@ -41,8 +41,16 @@ ol {
   font-size: 16px;
 }
 
-.jumbotron {
+/* .jumbotron {
   background-image: url(../img/jumbotron.png);
+  background-repeat: no-repeat;
+  background-position: 50% 100%;
+  background-size: cover;
+  height: 360px;
+}
+ */
+.jumbotron {
+  background-image: url(../img/guang.png);
   background-repeat: no-repeat;
   background-position: 50% 100%;
   background-size: cover;
