@@ -25,16 +25,19 @@ myControllers.controller('HomeCtrl', ['$scope', '$http',
     $http.get('data/teaching.json').success(function(data) {
       $scope.teachings = data;
     });
-  }
-]);
-
-myControllers.controller('HomeCtrl', ['$scope', '$http',
-  function($scope, $http) {
     $http.get('data/honor.json').success(function(data) {
       $scope.honors = data;
     });
   }
 ]);
+
+// myControllers.controller('HomeCtrl', ['$scope', '$http',
+//   function($scope, $http) {
+//     $http.get('data/honor.json').success(function(data) {
+//       $scope.honors = data;
+//     });
+//   }
+// ]);
 
 myControllers.controller('NewsCtrl', ['$scope', '$http',
   function($scope, $http) {
