@@ -1,17 +1,31 @@
 [
   {
-    "title": "Fall 2014 - Freight Transportation Systems",
-    "content": "This advanced, graduate-level course provides an introduction to multimodal (rail, road, waterway) freight transportation systems. This course comprises three inter-connected parts: 1) introduce basic modal-specific concepts and industry development; 2) explain widely used modeling techniques used in freight transportation and logistics; and 3) apply the methodologies to an emerging high-profile transportation research topic through a term project.",
-    "figure": "teach1.png"
+    "title": "2019 Summer: Discrete Structure I",
+    "content": "To introduce the student to the mathematical tools of logic and induction, and to the basic definitions and theorems concerning relations, functions, and sets. Later courses in the computer science curriculum build on the mathematical foundations covered here. Particular emphasis is placed on inductive definitions and proofs, with application to problems in computer science.",
+    "figure": ""
+  } 
+  {
+    "title": "2019 Spring: Principles of Programming Languages",
+    "content": "This undergraduate-level course introduces many programming languages, e.g., Python, Scheme, Prolog, Haskell."
   },
   {
-    "title": "Spring 2015 - Rail Transportation System",
-    "content": "This course covers the fundamentals of railroad transportation and engineering. The topics include railroad efficiency and economics, track infrastructure, rail vehicle, traffic control system, highway-rail grade crossing, and railroad safety.",
-    "figure": "teach2.jpg"
-  },
+    "title": "2018 Fall: Discrete Structure II",
+    "content": "To learn some interesting and useful elements of combinatorics and discrete probability and how they apply to Computer Science and to life.",
+    "figure": ""
+  }
   {
-    "title": "Fall 2015 - Engineering Risk Analysis in Transportation Systems",
-    "content": "This course provides an introduction to the concepts, theories, methodologies and applications of engineering risk analysis in the context of multimodal transportation safety. Upon successful completion of this course, students would be able to perform mode-specific and multimodal transportation engineering risk analyses.",
-    "figure": "teach3.jpg"
+    "title": "2018 Summer: Discrete Structure I",
+    "content": "To introduce the student to the mathematical tools of logic and induction, and to the basic definitions and theorems concerning relations, functions, and sets. Later courses in the computer science curriculum build on the mathematical foundations covered here. Particular emphasis is placed on inductive definitions and proofs, with application to problems in computer science.",
+    "figure": ""
+  }
+  {
+    "title": "2018 Spring: Principles of Programming Languages",
+    "content": "This undergraduate-level course introduces many programming languages, e.g., Python, Scheme, Prolog, Haskell.",
+    "figure": ""
+  }
+  {
+    "title": "2017 Fall: Discrete Structure I",
+    "content": "To introduce the student to the mathematical tools of logic and induction, and to the basic definitions and theorems concerning relations, functions, and sets. Later courses in the computer science curriculum build on the mathematical foundations covered here. Particular emphasis is placed on inductive definitions and proofs, with application to problems in computer science.",
+    "figure": ""
   }
 ]
