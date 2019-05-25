@@ -4,7 +4,7 @@
 <h2 class="subtitle">Conference Papers</h2>
 <ol>
   <li ng-repeat="c in conferences">
-    <p><span ng-bind-html="c.author"></span> {{c.title}} {{c.source}}</p>
+    <p><span ng-bind-html="c.author"></span> <a href="files/{{c.link}}">{{c.title}}</a> {{c.source}}</p>
   </li>
 </ol>
 
