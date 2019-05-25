@@ -37,6 +37,13 @@
 </ol> -->
 
 <h1 class="title">
+  <span>Publications</span>
+</h1>
+<ol>
+  <li ng-repeat="c in conferences">{{c.author}{c.title}{c.link}{c.source}}</li>
+</ol>
+
+<h1 class="title">
   <span>Teaching (TA)</span>
 </h1>
 <ol>
@@ -49,10 +56,3 @@
 <ol>
   <li ng-repeat="h in honors">{{h.name}}</li>
 </ol>
-<!-- 
-<h1 class="title">
-  <span>Publications</span>
-</h1>
-<ol>
-  <li ng-repeat="c in conferences">{{c.author}{c.title}{c.link}{c.source}}</li>
-</ol> -->
