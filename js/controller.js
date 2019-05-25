@@ -22,7 +22,7 @@ myControllers.controller('HomeCtrl', ['$scope', '$http',
 myControllers.controller('HomeCtrl', ['$scope', '$http',
   function($scope, $http) {
     $http.get('data/teaching.json').success(function(data) {
-      $scope.teaching = data;
+      $scope.teachings = data;
     });
   }
 ]);
