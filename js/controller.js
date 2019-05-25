@@ -22,6 +22,9 @@ myControllers.controller('NavCtrl', ['$scope', '$location',
 
 myControllers.controller('HomeCtrl', ['$scope', '$http',
   function($scope, $http) {
+    $http.get('data/publication.json').success(function(data) {
+      $scope.publications = data;
+    });
     $http.get('data/teaching.json').success(function(data) {
       $scope.teachings = data;
     });
