@@ -8,21 +8,30 @@ myControllers.controller('NavCtrl', ['$scope', '$location',
   }
 ]);
 
+// myControllers.controller('HomeCtrl', ['$scope', '$http',
+//   function($scope, $http) {
+//     $http.get('data/interest.json').success(function(data) {
+//       $scope.interests = data;
+//     });
+//     $http.get('data/honor.json').success(function(data) {
+//       $scope.honors = data;
+//     });
+//   }
+// ]);
+
+
 myControllers.controller('HomeCtrl', ['$scope', '$http',
   function($scope, $http) {
-    $http.get('data/interest.json').success(function(data) {
-      $scope.interests = data;
-    });
-    $http.get('data/honor.json').success(function(data) {
-      $scope.honors = data;
+    $http.get('data/teaching.json').success(function(data) {
+      $scope.teachings = data;
     });
   }
 ]);
 
 myControllers.controller('HomeCtrl', ['$scope', '$http',
   function($scope, $http) {
-    $http.get('data/teaching.json').success(function(data) {
-      $scope.teachings = data;
+    $http.get('data/honor.json').success(function(data) {
+      $scope.honors = data;
     });
   }
 ]);
