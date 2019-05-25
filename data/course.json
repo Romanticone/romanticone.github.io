@@ -6,7 +6,7 @@
   } 
   {
     "title": "2019 Spring: Principles of Programming Languages",
-    "content": "This undergraduate-level course introduces many programming languages, e.g., Python, Scheme, Prolog, Haskell."
+    "content": "This course covers different paradigms of programming languages. Topics: (i) Imperative programming and Python; (ii) Concepts underlying programming languages, e.g., dynamic and static typing, grammars, Lambda calculus. (iii) Functional programming, e.g., Scheme and Haskell. (iv) Logic programming and Prolog."
   },
   {
     "title": "2018 Fall: Discrete Structure II",
