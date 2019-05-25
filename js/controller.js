@@ -19,6 +19,14 @@ myControllers.controller('HomeCtrl', ['$scope', '$http',
   }
 ]);
 
+myControllers.controller('HomeCtrl', ['$scope', '$http',
+  function($scope, $http) {
+    $http.get('data/teaching.json').success(function(data) {
+      $scope.teaching = data;
+    });
+  }
+]);
+
 myControllers.controller('NewsCtrl', ['$scope', '$http',
   function($scope, $http) {
     $http.get('data/event.json').success(function(data) {
