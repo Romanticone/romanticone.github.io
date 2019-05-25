@@ -1,0 +1,7 @@
+@inproceedings{wang2018experience,
+  title={Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks},
+  author={Wang, Guang and Chen, Xiuyuan and Zhang, Fan and Wang, Yang and Zhang, Desheng},
+  booktitle={Proceedings of the 25th annual international conference on Mobile computing and networking (MobiCom)},
+  year={2019},
+  organization={ACM}
+}

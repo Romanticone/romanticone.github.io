@@ -1,0 +1,8 @@
+@inproceedings{wang2018bcharge,
+  title={bCharge: Data-Driven Real-Time Charging Scheduling for Large-Scale Electric Bus Fleets},
+  author={Wang, Guang and Xie, Xiaoyang and Zhang, Fan and Liu, Yunhuai and Zhang, Desheng},
+  booktitle={2018 IEEE Real-Time Systems Symposium (RTSS)},
+  pages={45--55},
+  year={2018},
+  organization={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{xie2018cosense,
+  title={coSense: Collaborative Urban-Scale Vehicle Sensing Based on Heterogeneous Fleets},
+  author={Xie, Xiaoyang and Yang, Yu and Fang, Zhihan and Wang, Guang and Zhang, Fan and Zhang, Fan and Liu, Yunhuai and Zhang, Desheng},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={2},
+  number={4},
+  pages={196},
+  year={2018},
+  publisher={ACM}
+}
