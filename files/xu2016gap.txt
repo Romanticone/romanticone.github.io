@@ -1,0 +1,10 @@
+@article{xu2016gap,
+  title={Gap measurement of point machine using adaptive wavelet threshold and mathematical morphology},
+  author={Xu, Tianhua and Wang, Guang and Wang, Haifeng and Yuan, Tangming and Zhong, Zhiwang},
+  journal={Sensors},
+  volume={16},
+  number={12},
+  pages={2006},
+  year={2016},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}

@@ -1,0 +1,9 @@
+@article{wang2017bayesian,
+  title={A Bayesian network model for prediction of weather-related failures in railway turnout systems},
+  author={Wang, Guang and Xu, Tianhua and Tang, Tao and Yuan, Tangming and Wang, Haifeng},
+  journal={Expert systems with applications},
+  volume={69},
+  pages={247--256},
+  year={2017},
+  publisher={Elsevier}
+}

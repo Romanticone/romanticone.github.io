@@ -1,0 +1,9 @@
+@inproceedings{wang2016adaboost,
+  title={AdaBoost and least square based failure prediction of railway turnouts},
+  author={Wang, Guang and Xu, Tianhua and Wang, Haifeng and Zou, Yunhuai},
+  booktitle={2016 9th International Symposium on Computational Intelligence and Design (ISCID)},
+  volume={1},
+  pages={434--437},
+  year={2016},
+  organization={IEEE}
+}

@@ -1,0 +1,6 @@
+@inproceedings{xu2016multiple,
+  title={Multiple Fault Diagnosis and Prognosis of Chinese Train Control Systems},
+  author={XU, TIANHUA and WANG, GUANG and WANG, HAIFENG},
+  booktitle={1st International Workshop on Structural Health Monitoring for Railway System},
+  year={2016}
+}
