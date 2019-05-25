@@ -2,8 +2,8 @@
   {
     "title": "2019 Summer: Discrete Structure I",
     "content": "To introduce the student to the mathematical tools of logic and induction, and to the basic definitions and theorems concerning relations, functions, and sets. Later courses in the computer science curriculum build on the mathematical foundations covered here. Particular emphasis is placed on inductive definitions and proofs, with application to problems in computer science.",
-    "figure": ""
-  } 
+    "figure": "teach1.png"
+  },
   {
     "title": "2019 Spring: Principles of Programming Languages",
     "content": "This course covers different paradigms of programming languages. Topics: (i) Imperative programming and Python; (ii) Concepts underlying programming languages, e.g., dynamic and static typing, grammars, Lambda calculus. (iii) Functional programming, e.g., Scheme and Haskell. (iv) Logic programming and Prolog.",
