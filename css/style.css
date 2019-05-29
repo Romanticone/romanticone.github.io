@@ -60,7 +60,8 @@ ol {
 .namecard {
   margin: 45px auto 0 auto;
 /*   margin: 60px auto 0 auto; */
-  padding-top: 8px;
+/*   padding-top: 8px; */
+  padding-top: 6px;
   width: 632px;
   height: 218px;
   background-color: rgba(219, 91, 67, 1);
