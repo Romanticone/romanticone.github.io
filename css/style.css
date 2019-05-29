@@ -80,7 +80,8 @@ ol {
   color: white;
   font-size: 22px;
   letter-spacing: 0.1em;
-  margin: 4px auto;
+  margin: 2px auto;
+/*   margin: 4px auto; */
 }
 
 .namecard .dbline {
