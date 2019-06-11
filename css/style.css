@@ -92,14 +92,14 @@ ol {
 }
 
 .namecard .lline {
-  top: 95px;
-  left: 40px;
+  top: 88px;
+  left: 25px;
   position: absolute;
 }
 
 .namecard .rline {
-  top: 105px;
-  right: 55px;
+  top: 88px;
+  right: 25px;
   position: absolute;
 }
 
