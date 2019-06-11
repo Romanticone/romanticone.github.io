@@ -58,11 +58,11 @@ ol {
 }
 
 .namecard {
-  margin: 45px auto 0 auto;
+  margin: 25px auto 0 auto;
 /*   margin: 60px auto 0 auto; */
 /*   padding-top: 8px; */
-  padding-top: 5px;
-  width: 450px;
+  padding-top: 1px;
+  width: 430px;
   height: 180px;
   background-color: rgba(219, 91, 67, 1);
   position: relative;
