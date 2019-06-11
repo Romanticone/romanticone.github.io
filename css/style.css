@@ -58,7 +58,7 @@ ol {
 }
 
 .namecard {
-  margin: 45px auto 0 auto;
+  margin: 38px auto 0 auto;
 /*   margin: 60px auto 0 auto; */
 /*   padding-top: 8px; */
   padding-top: 5px;
@@ -71,14 +71,14 @@ ol {
 .namecard h1 {
   text-align: center;
   color: white;
-  font-size: 45px;
+  font-size: 38px;
   letter-spacing: 0.1em;
 }
 
 .namecard p {
   text-align: center;
   color: white;
-  font-size: 22px;
+  font-size: 20px;
   letter-spacing: 0.1em;
   margin: 2px auto;
 /*   margin: 4px auto; */
