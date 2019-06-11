@@ -4,16 +4,11 @@ html {
   font-size: 18px;
 }
 
-/* body {
+body {
   margin:0;
   padding-top: 40px;
   padding-bottom: 50px;
   font-size: 18px;
-} */
-
-body {
-  padding-top: 70px;
-  padding-bottom: 30px;
 }
 
 a {
@@ -172,10 +167,10 @@ ol {
   border: 1px solid #808080;
 }
 
-.stretch {
+/* .stretch {
   width: 100%;
   height: 100%;
-}
+} */
 
 .theme-dropdown .dropdown-menu {
   position: static;
