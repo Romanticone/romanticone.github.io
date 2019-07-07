@@ -1,5 +1,11 @@
 [
-    {
+ {
+    "author": "<span class='font-bold'>Wang, G.</span>, Zhang, F., Wang, Y., Sun, H., & Zhang, D. (2019).",
+    "title": "Understanding Long-Term Mobility and Charging Patterns Evolving in Electric Taxi Networks.",
+    "link": "",
+    "source": "Under submission of IEEE TMC."
+  },
+  {
     "author": "<span class='font-bold'>Wang, G.</span>, Xu, T., Tang, T., Yuan, T., & Wang, H. (2017).",
     "title": "Bayesian network model for prediction of weather-related failures in railway turnout systems.",
     "link": "wang2017bayesian.txt",
