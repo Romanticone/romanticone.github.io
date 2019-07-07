@@ -5,6 +5,12 @@
     "link": "wang2019ePat.txt",
     "source": "In Proceedings of the 25th Annual International Conference on Mobile Computing and Networking (MobiCom). ACM."
   },
+   {
+    "author": "<span class='font-bold'>Wang, G.</span>, Li, W., Zhang, J., Zhang, F., Ge, Y., Fu, Z., Wang, Y., & Zhang, D. (2018).",
+    "title": "sharedCharging: Data-Driven Shared Charging Scheduling for Large-Scale Heterogeneous Electric Vehicle Fleets.",
+    "link": "",
+    "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp) 2019."
+  },
   {
     "author": "<span class='font-bold'>Wang, G.</span>, Xie, X., Zhang, F., Liu, Y., & Zhang, D. (2018).",
     "title": "bCharge: Data-Driven Real-Time Charging Scheduling for Large-Scale Electric Bus Fleets.",
@@ -15,7 +21,7 @@
     "author": "Xie, X., Yang, Y., Fang, Z., <span class='font-bold'>Wang, G.</span>, Zhang, F., Zhang, F., Liu, Y. and Zhang, D. (2019)",
     "title": "coSense: Collaborative Urban-Scale Vehicle Sensing Based on Heterogeneous Fleets",
     "link": "xie2018.txt",
-    "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp) 2019."
+    "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp) 2018."
   },
   {
     "author": "Lin, C., <span class='font-bold'>Wang, G.*</span> (2017).",
