@@ -31,6 +31,15 @@ myControllers.controller('HomeCtrl', ['$scope', '$http',
     $http.get('data/honor.json').success(function(data) {
       $scope.honors = data;
     });
+      $http.get('data/journal.json').success(function(data) {
+      $scope.journals = data;
+    });
+    $http.get('data/magazine.json').success(function(data) {
+      $scope.magzines = data;
+    });
+    $http.get('data/conference.json').success(function(data) {
+      $scope.conferences = data;
+    });
   }
 ]);
 
