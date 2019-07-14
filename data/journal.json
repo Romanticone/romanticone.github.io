@@ -9,12 +9,12 @@
     "author": "<span class='font-bold'>Wang, G.</span>, Xu, T., Tang, T., Yuan, T., & Wang, H. (2017).",
     "title": "Bayesian network model for prediction of weather-related failures in railway turnout systems.",
     "link": "wang2017bayesian.txt",
-    "source": "Expert systems with applications (ESWA)."
+    "source": "Expert systems with applications <span class='font-bold'>(ESWA)</span>."
   },
   {
     "author": "Xu, T., <span class='font-bold'>Wang, G.</span>, Wang, H., Yuan, T., & Zhong, Z. (2016).",
     "title": "Gap measurement of point machine using adaptive wavelet threshold and mathematical morphology.",
     "link": "sensorsXu.pdf",
-    "source": "Sensors."
+    "source": "<span class='font-bold'>Sensors</span>."
   }
 ]
