@@ -1,0 +1,10 @@
+@article{wang2018sharedCharging,
+  title={sharedCharging: Data-Driven Shared Charging for Large-Scale Heterogeneous Electric Vehicle Fleets},
+  author={Wang, Guang and Li, Wenzhong and Zhang, Jun and Ge, Yingqiang and Fu, Zuohui and Zhang, Fan and  and Wang, Yang and Zhang, Desheng},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={3},
+  number={3},
+  pages={108},
+  year={2019},
+  publisher={ACM}
+}
