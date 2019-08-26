@@ -24,8 +24,14 @@
     "source": "In Proceedings of the 25th Annual International Conference on Mobile Computing and Networking <span class='font-bold'>(Poster@ACM MobiCom)</span>."
   },
   {
+    "author": "<span class='font-bold'>Wang, G.</span>, Zhang, F., & Zhang, D. (2019).",
+    "title": "A Fleet-Oriented Real-Time Charging Scheduling System for Electric Taxi Fleets.",
+    "link": "ePat_Guang.pdf",
+    "source": "The 17th ACM Conference on Embedded Networked Sensor Systems <span class='font-bold'>(Poster@ACM SenSys)</span>."
+  },
+  {
     "author": "Xie, X., Yang, Y., Fang, Z., <span class='font-bold'>Wang, G.</span>, Zhang, F., Zhang, F., Liu, Y. and Zhang, D. (2019).",
-    "title": "coSense: Collaborative Urban-Scale Vehicle Sensing Based on Heterogeneous Fleets",
+    "title": "coSense: Collaborative Urban-Scale Vehicle Sensing Based on Heterogeneous Fleets.",
     "link": "xie2018.txt",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2018."
   },
