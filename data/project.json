@@ -5,16 +5,16 @@
     "figure": "ePat1.png",
     "link": ""
   },
+   {
+    "title": "Shared Charging for Heterogeneous EV Fleets",
+    "content": "In this work, we propose the first data-driven shared charging scheduling strategy for large-scale heterogeneous EV fleets based on three opprtunities obtained from the data-driven investigation.",
+    "figure": "coCharge.png",
+    "link": ""
+  },
   {
     "title": "Electric Bus Charging Scheduling",
     "content": "In this work, we performed a data-driven observation for operation and charging patterns of large-scale electric bus fleets. Based on the findings and insights we obtained from this investigation, we designed the first electricity pricing-aware real-time charging scheduling system for large-scale electric bus fleets.",
     "figure": "bCharge.png",
-    "link": ""
-  },
-    {
-    "title": "Shared Charging for Heterogeneous EV Fleets",
-    "content": "In this work, we propose the first data-driven shared charging scheduling strategy for large-scale heterogeneous EV fleets based on three opprtunities obtained from the data-driven investigation.",
-    "figure": "coCharge.png",
     "link": ""
   },
     {
