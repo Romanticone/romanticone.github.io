@@ -1,13 +1,25 @@
 [
   {
-    "title": "Measurement of Electric Taxi Evolving Patterns",
-    "content": "Due to the ever-growing concerns over air pollution and energy security, many cities have started to replace their taxi fleets with electric ones. Even though environmentally friendly, the rapid promotion of electric taxis raises problems to both taxi drivers and governments, e.g., prolonged waiting/charging time, unbalanced utilization of charging infrastructures, and reduced taxi supply due to the long charging time. In this paper, we make the first effort to understand the long-term evolving mobility and charging patterns through a five-year study on one of the largest electric taxi networks in the world, i.e., the Shenzhen electric taxi network in China. In particular, we first perform an electric taxi contextualization about their operation and charging. Then we design a generic charging event extraction algorithm based on GPS data and charging station data to infer ETs' charging activities. Based on the contextualization and extracted charging activities, we perform a comprehensive measurement investigation called ePat to explore the evolving mobility and charging patterns of electric vehicles. Our ePat is based on 4.8 TB taxi GPS data, 240 GB taxi transaction data, and metadata from 117 charging stations, during an evolving process from 427 electric taxis in 2013 to 13,178 in 2018. Moreover, ePat also explores the impacts of various contexts and benefits during the evolving process. Our ePat as a comprehensive investigation of the electric taxi network mobility and charging evolving has the potential to advance the understanding of the evolving patterns of electric taxi networks and pave the way for analyzing future shared autonomous vehicles.",
+    "title": "Measurement of 5-Year Electric Taxi Evolving Patterns",
+    "content": "In this work, we make the first effort to understand the long-term evolving mobility and charging patterns through a five-year study on one of the largest electric taxi networks in the world, i.e., the Shenzhen electric taxi network in China. Our ePat as a comprehensive investigation of the electric taxi network mobility and charging evolving has the potential to advance the understanding of the evolving patterns of electric taxi networks and pave the way for analyzing future shared autonomous vehicles.",
     "figure": "ePat.png",
     "link": ""
   },
   {
     "title": "Electric Bus Charging Scheduling",
-    "content": "We are witnessing a rapid growth of electrified vehicles because of the ever-increasing concerns over urban air quality and energy security. Compared with other electric vehicles, electric buses have not yet been prevailingly adopted worldwide due to the high owning and operating costs, long charging time, and the uneven distribution of charging facilities. Moreover, the highly dynamic environment factors such as the unpredictable traffic congestions, different passenger demands, and even changing weather, can significantly affect electric bus charging efficiency and potentially hinder further development of large-scale electric bus fleets. To deal with these issues, in this paper, we first analyze a real-world dataset including massive data from 16,359 electric buses, 1,400 bus lines and 5,562 bus stops, which is obtained from the Chinese city Shenzhen, who has the first and the largest full electric bus network for public transit. Then we investigate the electric bus network to understand its operating and charging patterns, and further verify the feasibility and necessity of a real-time charging scheduling. With such understanding, we design busCharging, a real-time charging scheduling system based on Markov Decision Process to reduce the overall charging and operating costs for city-scale electric bus fleets, taking the time-variant electricity pricing into account.",
+    "content": "In this work, we performed a data-driven observation for operation and charging patterns of large-scale electric bus fleets. Based on the findings and insights we obtained from this investigation, we designed the first electricity pricing-aware real-time charging scheduling system for large-scale electric bus fleets.",
+    "figure": "bCharge.png",
+    "link": ""
+  },
+    {
+    "title": "Shared Charging for Heterogeneous EV Fleets",
+    "content": "In this work, we propose the first data-driven shared charging scheduling strategy for large-scale heterogeneous EV fleets based on three opprtunities obtained from the data-driven investigation.",
+    "figure": "bCharge.png",
+    "link": ""
+  },
+    {
+    "title": "Failure Diagnosis and Prediction of Railway Turnouts",
+    "content": "For this project, we developed a series of methods (including text mining, image processing, machine learning based approaches) to diagnose and predict failures of railway turnouts based on real-world data.",
     "figure": "bCharge.png",
     "link": ""
   }
