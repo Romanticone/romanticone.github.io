@@ -1,24 +1,24 @@
 [
   {
-    "title": "Measurement of 5-Year Electric Taxi Evolving Patterns",
+    "title": "Measurement of 5-Year Electric Taxi Evolving Patterns (MobiCom 2019)",
     "content": "In this work, we make the first effort to understand the long-term evolving mobility and charging patterns through a five-year study on one of the largest electric taxi networks in the world, i.e., the Shenzhen electric taxi network in China. Our ePat as a comprehensive investigation of the electric taxi network mobility and charging evolving has the potential to advance the understanding of the evolving patterns of electric taxi networks and pave the way for analyzing future shared autonomous vehicles.",
     "figure": "ePat1.png",
     "link": ""
   },
    {
-    "title": "Shared Charging for Heterogeneous EV Fleets",
+    "title": "Shared Charging for Heterogeneous EV Fleets (UbiComp 2019)",
     "content": "In this work, we propose the first data-driven shared charging scheduling strategy for large-scale heterogeneous EV fleets based on three opprtunities obtained from the data-driven investigation.",
     "figure": "coCharge.png",
     "link": ""
   },
   {
-    "title": "Electric Bus Charging Scheduling",
+    "title": "Electric Bus Charging Scheduling (RTSS 2018)",
     "content": "In this work, we performed a data-driven observation for operation and charging patterns of large-scale electric bus fleets. Based on the findings and insights we obtained from this investigation, we designed the first electricity pricing-aware real-time charging scheduling system for large-scale electric bus fleets.",
     "figure": "bCharge.png",
     "link": ""
   },
     {
-    "title": "Failure Diagnosis and Prediction of Railway Turnouts",
+    "title": "Failure Diagnosis and Prediction of Railway Turnouts (ESWA 2017, Sensors 2016)",
     "content": "For this project, we developed a set of methods (including text mining, image processing, machine learning based approaches) to diagnose and predict failures of railway turnouts based on real-world data.",
     "figure": "turnout.png",
     "link": ""
