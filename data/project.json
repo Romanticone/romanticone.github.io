@@ -14,13 +14,13 @@
     {
     "title": "Shared Charging for Heterogeneous EV Fleets",
     "content": "In this work, we propose the first data-driven shared charging scheduling strategy for large-scale heterogeneous EV fleets based on three opprtunities obtained from the data-driven investigation.",
-    "figure": "bCharge.png",
+    "figure": "coCharge.png",
     "link": ""
   },
     {
     "title": "Failure Diagnosis and Prediction of Railway Turnouts",
     "content": "For this project, we developed a series of methods (including text mining, image processing, machine learning based approaches) to diagnose and predict failures of railway turnouts based on real-world data.",
-    "figure": "bCharge.png",
+    "figure": "turnout.png",
     "link": ""
   }
 ]
