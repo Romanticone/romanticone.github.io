@@ -19,7 +19,7 @@
   },
     {
     "title": "Failure Diagnosis and Prediction of Railway Turnouts (ESWA 2017, Sensors 2016)",
-    "content": "For this project, we developed a set of methods (including text mining, image processing, machine learning based approaches) to diagnose and predict failures of railway turnouts based on real-world data.",
+    "content": "For this project, we developed a set of methods (including text mining, image processing, machine learning based approaches) to diagnose and predict failures of railway turnouts based on six-year real-world data.",
     "figure": "turnout.png",
     "link": ""
   }
