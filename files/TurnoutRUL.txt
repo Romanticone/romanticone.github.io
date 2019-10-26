@@ -1,0 +1,8 @@
+@article{chen2019railway,
+  title={Railway Turnout System RUL Prediction Based on Feature Fusion and Genetic Programming},
+  author={Chen, Cong and Xu, Tianhua and Wang, Guang and Li, Bo},
+  journal={Measurement},
+  pages={107162},
+  year={2019},
+  publisher={Elsevier}
+}
