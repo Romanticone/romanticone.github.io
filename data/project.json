@@ -1,7 +1,7 @@
 [
   {
     "title": "Fairness-Aware Charging Recommendation System (UbiComp 2020)",
-    "content": "In the past two years, I am always thinking what research I can do to benefit our society. I realize it is more meaningful if our research can focus on Human, especially those people who are at a disadvantage. We always talk about Fairness, but it is hard for us to have a consistent definition since different people may have their own idea. There is a long history for economics and sociologists to seek for the answer of fiarness, especially in the world with so many high-tech inventions. In this work, we try to discuss and quantify the fairness in the recommendation systems, which has the potential to make the recommendation systems sustainable and acceptable by users.",
+    "content": "In the past two years, I am always thinking of what research I can do to benefit our society. I realize it is more meaningful if our research can focus on humans, especially those people who are at a disadvantage. We always talk about Fairness, but it is hard for us to have a consistent definition since different people may have their own idea. There is a long history of economics and sociologists to seek the answer of fairness, especially in the world with so many high-tech inventions. In this work, we discuss and try to quantify the fairness in the recommendation systems, which has the potential to make the recommendation systems sustainable and acceptable by users.",
     "figure": "fairness.jpeg",
     "link": ""
   },
