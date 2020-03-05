@@ -83,7 +83,7 @@ myControllers.controller('ResearchCtrl', ['$scope', '$http',
 
 myControllers.controller('ServiceCtrl', ['$scope', '$http',
   function($scope, $http) {
-    $http.get('data/publication.json').success(function(data) {
+    $http.get('data/service.json').success(function(data) {
       $scope.publications = data;
     });
   }
