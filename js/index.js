@@ -26,7 +26,7 @@ myApp.config(['$routeProvider',
         templateUrl: 'pages/teach.html',
         controller: 'TeachCtrl'
       }).
-       when('/Services', {
+       when('/service', {
         templateUrl: 'pages/Services.html',
         controller: 'ServiceCtrl'
       }).
