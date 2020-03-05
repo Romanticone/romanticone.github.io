@@ -3,7 +3,7 @@
 
 <h2 class="subtitle">Reviewer</h2>
 <ol>
-  <li>
-    ACM IMWUT
+  <li ng-repeat="c in publications">
+    <p><span ng-bind-html="c.name"></span> </p>
   </li>
 </ol>
