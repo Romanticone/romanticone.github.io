@@ -1,26 +1,41 @@
 [
   {
-    "name": "Wang, G., Chen, X., Zhang, F., Wang, Y., & Zhang, D. (2019). Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks. In Proceedings of the 25th Annual International Conference on Mobile Computing and Networking (MobiCom). ACM."
+    "name": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (2019)"
   }, 
   {
-    "name": "Wang, G., Xie, X., Zhang, F., Liu, Y., & Zhang, D. (2018). bCharge: Data-Driven Real-Time Charging Scheduling for Large-Scale Electric Bus Fleets. In 2018 IEEE Real-Time Systems Symposium (RTSS)."
+    "name": "IEEE International Conference on Smart Computing (SmartComp 2019, 2020)"
   }, 
   {
-    "name": "Xie, X., Yang, Y., Fang, Z.,Wang, G., Zhang, F., Zhang, F., Liu, Y. and Zhang, D. (2019) coSense: Collaborative Urban-Scale Vehicle Sensing Based on Heterogeneous Fleets Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp) 2019."
+    "name": "International Conference on Distributed Computing in Sensor Systems (DCOSS 2019, 2020)"
   }, 
   {
-    "name": "Lin, C., Wang, G.* (2017). Failure Cause Extraction of Railway Switches Based on Text Mining. In Proceedings of the 2017 International Conference on Computer Science and Artificial Intelligence (ACM CSAI)."
+    "name": "IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2019)"
   },
   {
-    "name": "Wang, G., Xu, T., Tang, T., Yuan, T., & Wang, H. (2017). Bayesian network model for prediction of weather-related failures in railway turnout systems. Expert systems with applications (ESWA)."
+    "name": "International Conference on Parallel and Distributed Systems (ICPADS 2019)"
   },
   {
-    "name": "Wang, G., Xu, T., Wang, H., & Zou, Y. (2016). AdaBoost and least square based failure prediction of railway turnouts. In 2016 9th IEEE International Symposium on Computational Intelligence and Design (ISCID)."
+    "name": "International Conference on Sensing, Communication and Networking (SECON 2018, 2019)"
   },
   {
-    "name": "Xu, T., Wang, G., Wang, H., Yuan, T., & Zhong, Z. (2016). Gap measurement of point machine using adaptive wavelet threshold and mathematical morphology. Sensors."
+    "name": "International Conference on Electronics, Communications and Networks (CECNet 2019)"
   },
   {
-    "name": "Xu, T., Wang, G., & Wang, H. (2016). Multiple Fault Diagnosis and Prognosis of Chinese Train Control Systems. 1st International Workshop on Structural Health Monitoring for Railway System."
+    "name": "International Conference on Fuzzy Systems and Data Mining (FSDM 2018, 2019)"
+  },
+  {
+    "name": "ACM Conference on Embedded Networked Sensor Systems (SenSys 2018)"
+  },
+  {
+    "name": "ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2018)"
+  },
+  {
+    "name": "International Conference on Computer Communications and Networks (ICCCN 2018)"
+  },
+  {
+    "name": "International Conference on Embedded Wireless Systems and Networks (EWSN 2017)"
+  },
+  {
+    "name": "Journal of Ambient Intelligence and Humanized (2017)"
   }
 ]
