@@ -3,7 +3,7 @@
 
 <h2 class="subtitle">Reviewer</h2>
 <ol>
-  <li ng-repeat="c in publication">
+  <li ng-repeat="c in service">
     <p><span ng-bind-html="c.name"></span> </p>
   </li>
 </ol>
