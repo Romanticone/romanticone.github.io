@@ -81,6 +81,14 @@ myControllers.controller('ResearchCtrl', ['$scope', '$http',
   }
 ]);
 
+myControllers.controller('ServiceCtrl', ['$scope', '$http',
+  function($scope, $http) {
+    $http.get('data/publication.json').success(function(data) {
+      $scope.publications = data;
+    });
+  }
+]);
+
 myControllers.controller('TeachCtrl', ['$scope', '$http',
   function($scope, $http) {
     $http.get('data/course.json').success(function(data) {
