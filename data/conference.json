@@ -15,7 +15,7 @@
     "author": "Fu, Z., Xian, Y., Geng, S., Ge, Y., Wang, Y., Dong, X., <span class='font-bold'>Wang, Guang</span> & Melo, G. (2019).",
     "title": "ABSent: Cross-Lingual Sentence Representation Mapping with Bidirectional GANs.",
     "link": "",
-    "source": "In Proceedings of the 34th AAAI Conference on Artificial Intelligence <span class='font-bold'> (AAAI 2020)</span>."
+    "source": "In Proceedings of the 34th AAAI Conference on Artificial Intelligence <span class='font-bold'> (AAAI) 2020</span>."
   }, 
   {
     "author": "<span class='font-bold'>Wang, Guang</span>, Chen, X., Zhang, F., Wang, Y., & Zhang, D. (2019).",
@@ -50,13 +50,13 @@
    {
     "author": "<span class='font-bold'>Wang, Guang</span>, Zhang, F., & Zhang, D. (2019).",
     "title": "tCharge: A Fleet-Oriented Real-Time Charging Scheduling System for Electric Taxi Fleets.",
-    "link": "ePat_Guang.pdf",
+    "link": "ePat_MobiCom.pdf",
     "source": "The 17th ACM Conference on Embedded Networked Sensor Systems <span class='font-bold'>(Poster@ACM SenSys)</span>."
   },
    {
     "author": "<span class='font-bold'>Wang, Guang</span> & Zhang, D. (2019).",
     "title": "Understanding Long-Term Evolving Mobility and Charging of Shared EV Networks.",
-    "link": "ePat_Guang.pdf",
+    "link": "ePat_MobiCom.pdf",
     "source": "In Proceedings of the 25th Annual International Conference on Mobile Computing and Networking <span class='font-bold'>(Poster@ACM MobiCom)</span>."
   },
   {
