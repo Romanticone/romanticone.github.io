@@ -5,18 +5,6 @@
     "link": "",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2020."
   },
-    {
-    "author": "Fang, Z., <span class='font-bold'>Wang, Guang</span>, Wang, S., Zuo, C., Zhang, F., & Zhang, D. (2020).",
-    "title": "CellRep: Usage Representativeness Modeling and Correction Based on Multiple City-Scale Cellular Networks.",
-    "link": "",
-    "source": "The Web Conference <span class='font-bold'>(WWW)</span> 2020."
-  },
-  {
-    "author": "Fu, Z., Xian, Y., Geng, S., Ge, Y., Wang, Y., Dong, X., <span class='font-bold'>Wang, Guang</span> & Melo, G. (2019).",
-    "title": "ABSent: Cross-Lingual Sentence Representation Mapping with Bidirectional GANs.",
-    "link": "",
-    "source": "In Proceedings of the 34th AAAI Conference on Artificial Intelligence <span class='font-bold'> (AAAI) 2020</span>."
-  }, 
   {
     "author": "<span class='font-bold'>Wang, Guang</span>, Chen, X., Zhang, F., Wang, Y., & Zhang, D. (2019).",
     "title": "Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks.",
@@ -35,6 +23,18 @@
     "link": "wang2018bcharge.txt",
     "source": "In 2018 IEEE Real-Time Systems Symposium <span class='font-bold'>(IEEE RTSS)</span>."
   },
+       {
+    "author": "Fang, Z., <span class='font-bold'>Wang, Guang</span>, Wang, S., Zuo, C., Zhang, F., & Zhang, D. (2020).",
+    "title": "CellRep: Usage Representativeness Modeling and Correction Based on Multiple City-Scale Cellular Networks.",
+    "link": "",
+    "source": "The Web Conference <span class='font-bold'>(WWW)</span> 2020."
+  },
+  {
+    "author": "Fu, Z., Xian, Y., Geng, S., Ge, Y., Wang, Y., Dong, X., <span class='font-bold'>Wang, Guang</span> & Melo, G. (2019).",
+    "title": "ABSent: Cross-Lingual Sentence Representation Mapping with Bidirectional GANs.",
+    "link": "",
+    "source": "In Proceedings of the 34th AAAI Conference on Artificial Intelligence <span class='font-bold'> (AAAI) 2020</span>."
+  }, 
   {
     "author": "Xie, X., Yang, Y., Fang, Z., <span class='font-bold'>Wang, Guang</span>, Zhang, F., Zhang, F., Liu, Y. and Zhang, D. (2019).",
     "title": "coSense: Collaborative Urban-Scale Vehicle Sensing Based on Heterogeneous Fleets.",
