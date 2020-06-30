@@ -60,21 +60,9 @@
     "source": "In Proceedings of the 25th Annual International Conference on Mobile Computing and Networking <span class='font-bold'>(Poster@ACM MobiCom)</span>."
   },
   {
-    "author": "Lin, C., <span class='font-bold'>Wang, Guang</span> (2017).",
-    "title": "Failure Cause Extraction of Railway Switches Based on Text Mining.",
-    "link": "",
-    "source": " In Proceedings of the 2017 International Conference on Computer Science and Artificial Intelligence <span class='font-bold'>(ACM CSAI)</span>."
-  },
-  {
     "author": "<span class='font-bold'>Wang, Guang</span>, Xu, T., Wang, H., & Zou, Y. (2016).",
     "title": "AdaBoost and least square based failure prediction of railway turnouts.",
     "link": "wang2016adboost.txt",
     "source": "In 2016 9th IEEE International Symposium on Computational Intelligence and Design <span class='font-bold'>(IEEE ISCID)</span>."
-  },
-  {
-    "author": "Xu, T., <span class='font-bold'>Wang, Guang</span>, & Wang, H. (2016). ",
-    "title": "Multiple Fault Diagnosis and Prognosis of Chinese Train Control Systems.",
-    "link": "",
-    "source": "1st International Workshop on Structural Health Monitoring for Railway System <span class='font-bold'>(IWSHM-RS)</span>."
   }
 ]
