@@ -23,11 +23,23 @@
     "link": "wang2018bcharge.txt",
     "source": "In 2018 IEEE Real-Time Systems Symposium <span class='font-bold'>(IEEE RTSS)</span>."
   },
-       {
+     {
     "author": "Fang, Z., <span class='font-bold'>Wang, Guang</span>, Wang, S., Zuo, C., Zhang, F., & Zhang, D. (2020).",
     "title": "CellRep: Usage Representativeness Modeling and Correction Based on Multiple City-Scale Cellular Networks.",
     "link": "",
     "source": "The Web Conference <span class='font-bold'>(WWW)</span> 2020."
+  },
+   {
+    "author": "Yang, Y., Ding, Y., Yuan, D.,<span class='font-bold'>Wang, Guang</span>, Xie, X., Liu, Y., He, T., & Zhang, D. (2020).",
+    "title": "TransLoc: Transparent Indoor Localization with Uncertain Human Participation.",
+    "link": "",
+    "source": "In Proceedings of the 26th Annual International Conference on Mobile Computing and Networking <span class='font-bold'>(ACM MobiCom)</span> 2020."
+  },
+   {
+    "author": "He, S., Pepin, L., <span class='font-bold'>Wang, Guang</span>, Zhang, D., Miao, Fei. & (2020).",
+    "title": "Data-Driven Distributionally Robust Electric Vehicle Balancing for Mobility-on-Demand Systems under Demand and Supply Uncertainties",
+    "link": "",
+    "source": "The IEEE/RSJ International Conference on Intelligent Robots and Systems <span class='font-bold'>(IROS)</span> 2020."
   },
   {
     "author": "Fu, Z., Xian, Y., Geng, S., Ge, Y., Wang, Y., Dong, X., <span class='font-bold'>Wang, Guang</span> & Melo, G. (2019).",
