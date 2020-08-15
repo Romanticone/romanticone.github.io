@@ -12,16 +12,22 @@
     "source": "ACM Transaction on Intelligent Systems and Technology <span class='font-bold'>(ACM TIST)</span>."
   },
    {
-    "author": "Chen, C., Xu, T., <span class='font-bold'>Wang, Guang</span>, Li, B. (2019).",
-    "title": "Railway Turnout System RUL Prediction Based on Feature Fusion and Genetic Programming.",
-    "link": "TurnoutRUL.txt",
-    "source": "<span class='font-bold'>Measurement</span>."
-  },
-  {
     "author": "<span class='font-bold'>Wang, Guang</span>, Xu, T., Tang, T., Yuan, T., & Wang, H. (2017).",
     "title": "A Bayesian network model for prediction of weather-related failures in railway turnout systems.",
     "link": "wang2017bayesian.txt",
     "source": "Expert systems with applications <span class='font-bold'>(ESWA)</span>."
+  },
+   {
+    "author": "Qi, H., Xu, T., <span class='font-bold'>Wang, Guang</span>, Chen, Y., and Chen, C. (2020).",
+    "title": "MYOLOv3-Tiny: A New Convolutional Neural Network Architecture for Real-time Detection of Track Fasteners.",
+    "link": "TurnoutRUL.txt",
+    "source": "<span class='font-bold'>Computers in Industry.</span>."
+  },
+   {
+    "author": "Chen, C., Xu, T., <span class='font-bold'>Wang, Guang</span>, Li, B. (2019).",
+    "title": "Railway Turnout System RUL Prediction Based on Feature Fusion and Genetic Programming.",
+    "link": "TurnoutRUL.txt",
+    "source": "<span class='font-bold'>Measurement</span>."
   },
   {
     "author": "Xu, T., <span class='font-bold'>Wang, Guang</span>, Wang, H., Yuan, T., & Zhong, Z. (2016).",
