@@ -1,78 +1,90 @@
 [
+  {
+    "author": "<span class='font-bold'>Guang Wang</span>, Shuxin Zhong,Shuai Wang,Fei Miao, Zheng Dong, and Desheng Zhang (2021).",
+    "title": "Data-Driven Fairness-Aware Displacement for Large-Scale Electric Taxi Fleets.",
+    "link": "",
+    "source": "37th IEEE International Conference on Data Engineering <span class='font-bold'>(IEEE ICDE)</span> 2020."
+  },
    {
-    "author": "<span class='font-bold'>Wang, Guang</span>, Zhang, Y., Fang, Z., Wang, S., Zhang, F., & Zhang, D. (2020).",
+    "author": "<span class='font-bold'>Guang Wang</span>, Yongfeng Zhang, Zhihan Fang, Fan Zhang, and Desheng Zhang (2020).",
     "title": "FairCharge: A Data-Driven Fairness-Aware Charging Recommendation System for Large-Scale Electric Taxi Fleets.",
     "link": "https://dl.acm.org/doi/abs/10.1145/3381003",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2020."
   },
   {
-    "author": "<span class='font-bold'>Wang, Guang</span>, Chen, X., Zhang, F., Wang, Y., & Zhang, D. (2019).",
+    "author": "<span class='font-bold'>Guang Wang</span>, Xiuyuan Chen, Fan Zhang, Yang Wang, and Desheng Zhang (2019).",
     "title": "Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks.",
     "link": "ePat_MobiCom.pdf",
     "source": "In Proceedings of the 25th Annual International Conference on Mobile Computing and Networking <span class='font-bold'>(ACM MobiCom)</span> 2019."
   },
    {
-    "author": "<span class='font-bold'>Wang, Guang</span>, Li, W., Zhang, J., Ge, Y., Fu, Z., Zhang, F., Wang, Y., & Zhang, D. (2019).",
+    "author": "<span class='font-bold'>Guang Wang</span>, Wenzhong Li, Jun Zhang, Yingqiang Ge, Zuohui Fu, Fan Zhang, Yang Wang, and Desheng Zhang (2019).",
     "title": "sharedCharging: Data-Driven Shared Charging for Large-Scale Heterogeneous Electric Vehicle Fleets.",
     "link": "wang2019sharedCharging.txt",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2019."
   },
   {
-    "author": "<span class='font-bold'>Wang, Guang</span>, Xie, X., Zhang, F., Liu, Y., & Zhang, D. (2018).",
+    "author": "<span class='font-bold'>Guang Wang</span>, Xiaoyang Xie, Fan Zhang, Yunhuai Liu, and Desheng Zhang (2018).",
     "title": "bCharge: Data-Driven Real-Time Charging Scheduling for Large-Scale Electric Bus Fleets.",
     "link": "wang2018bcharge.txt",
     "source": "In 2018 IEEE Real-Time Systems Symposium <span class='font-bold'>(IEEE RTSS)</span>."
   },
      {
-    "author": "Fang, Z., <span class='font-bold'>Wang, Guang</span>, Wang, S., Zuo, C., Zhang, F., & Zhang, D. (2020).",
+    "author": "Kangjia Shao, Zhengyang Zhou, Yang Wang, Xike Xie, and <span class='font-bold'>Guang Wang</span> (2021).",
+    "title": "TrajForesee: How limited detailed trajectories enhance large-scale sparse information to predict vehicle trajectories?",
+    "link": "",
+    "source": "37th IEEE International Conference on Data Engineering <span class='font-bold'>(IEEE ICDE)</span> 2020."
+  },
+     {
+    "author": "Zhihan Fang, <span class='font-bold'>Guang Wang</span>, Shuai Wang, Chaoji Zuo, Fan Zhang and Desheng Zhang (2020).",
     "title": "CellRep: Usage Representativeness Modeling and Correction Based on Multiple City-Scale Cellular Networks.",
     "link": "",
     "source": "The Web Conference <span class='font-bold'>(WWW)</span> 2020."
   },
    {
-    "author": "Yang, Y., Ding, Y., Yuan, D.,<span class='font-bold'>Wang, Guang</span>, Xie, X., Liu, Y., He, T., & Zhang, D. (2020).",
+    "author": "Yu Yang, Yi Ding, Dengpan Yuan,<span class='font-bold'>Guang Wang</span>, Xiaoyang Xie, Yunhuai Liu, Tian He, and Desheng Zhang (2020).",
     "title": "TransLoc: Transparent Indoor Localization with Uncertain Human Participation.",
     "link": "",
     "source": "In Proceedings of the 26th Annual International Conference on Mobile Computing and Networking <span class='font-bold'>(ACM MobiCom)</span> 2020."
   },
    {
-    "author": "He, S., Pepin, L., <span class='font-bold'>Wang, Guang</span>, Zhang, D., Miao, Fei. & (2020).",
+    "author": "Sihong He, Lynn Pepin, <span class='font-bold'>Guang Wang</span>, Desheng Zhang, and Fei Miao (2020).",
     "title": "Data-Driven Distributionally Robust Electric Vehicle Balancing for Mobility-on-Demand Systems under Demand and Supply Uncertainties",
     "link": "",
     "source": "The IEEE/RSJ International Conference on Intelligent Robots and Systems <span class='font-bold'>(IROS)</span> 2020."
   },
   {
-    "author": "Fu, Z., Xian, Y., Geng, S., Ge, Y., Wang, Y., Dong, X., <span class='font-bold'>Wang, Guang</span> & Melo, G. (2019).",
+    "author": "Zuohui Fu,Yikun Xian,Shijie Geng,Yingqiang Ge, Yuting Wang,Xin Dong, <span class='font-bold'>Guang Wang</span> & Gerard de Melo (2019).",
     "title": "ABSent: Cross-Lingual Sentence Representation Mapping with Bidirectional GANs.",
     "link": "",
     "source": "In Proceedings of the 34th AAAI Conference on Artificial Intelligence <span class='font-bold'> (AAAI) 2020</span>."
   }, 
   {
-    "author": "Xie, X., Yang, Y., Fang, Z., <span class='font-bold'>Wang, Guang</span>, Zhang, F., Zhang, F., Liu, Y. and Zhang, D. (2019).",
+    "author": "Xiaoyang Xie, Yu Yang, Zhihan Fang, <span class='font-bold'>Guang Wang</span>, Fan Zhang, Fan Zhang, Yunhuai Liu, and Desheng Zhang (2019).",
     "title": "coSense: Collaborative Urban-Scale Vehicle Sensing Based on Heterogeneous Fleets.",
     "link": "xie2018.txt",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2019."
   },
    {
-    "author": "Fang, Z., <span class='font-bold'>Wang, Guang</span>, & Zhang, D. (2020).",
+    "author": "Zhihan Fang, <span class='font-bold'>Guang Wang</span>, and Desheng Zhang (2020).",
     "title": "Modeling Fine-Grained Human Mobility on Cellular Networks.",
     "link": "",
     "source": "The Web Conference <span class='font-bold'>(Poster@WWW)</span> 2020."
   },
    {
-    "author": "<span class='font-bold'>Wang, Guang</span>, Zhang, F., & Zhang, D. (2019).",
+    "author": "<span class='font-bold'>Guang Wang</span>, Fan Zhang,and Desheng Zhang (2019).",
     "title": "tCharge: A Fleet-Oriented Real-Time Charging Scheduling System for Electric Taxi Fleets.",
     "link": "ePat_MobiCom.pdf",
     "source": "The 17th ACM Conference on Embedded Networked Sensor Systems <span class='font-bold'>(Poster@ACM SenSys)</span>."
   },
    {
-    "author": "<span class='font-bold'>Wang, Guang</span> & Zhang, D. (2019).",
+    "author": "<span class='font-bold'>Guang Wang</span> and Desheng Zhang (2019).",
     "title": "Understanding Long-Term Evolving Mobility and Charging of Shared EV Networks.",
     "link": "ePat_MobiCom.pdf",
     "source": "In Proceedings of the 25th Annual International Conference on Mobile Computing and Networking <span class='font-bold'>(Poster@ACM MobiCom)</span>."
   },
   {
-    "author": "<span class='font-bold'>Wang, Guang</span>, Xu, T., Wang, H., & Zou, Y. (2016).",
+    "author": "<span class='font-bold'>Guang Wang</span>, Tianhua Xu, Haifeng Wang, and Yunhuai Zou (2016).",
     "title": "AdaBoost and least square based failure prediction of railway turnouts.",
     "link": "wang2016adboost.txt",
     "source": "In 2016 9th IEEE International Symposium on Computational Intelligence and Design <span class='font-bold'>(IEEE ISCID)</span>."
