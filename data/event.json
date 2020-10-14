@@ -1,7 +1,12 @@
 [
    {
     "title": "October 10th, 2020",
-    "content": "I get married with my girl.",
+    "content": "I get married with my wife.",
+    "figure": ""
+  },
+   {
+    "title": "October, 2020",
+    "content": "One paper is accepted by ACM IMWUT (UbiComp 2021).",
     "figure": ""
   },
    {
@@ -9,7 +14,7 @@
     "content": "Two Papers are accepted by IEEE ICDE'21.",
     "figure": ""
   },
-       {
+    {
     "title": "October, 2020",
     "content": "One Paper is accepted by ACM TIST.",
     "figure": ""
