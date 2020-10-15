@@ -35,6 +35,24 @@
     "link": "wang2018bcharge.txt",
     "source": "In 2018 IEEE Real-Time Systems Symposium <span class='font-bold'>(IEEE RTSS)</span>."
   },
+   {
+    "author": "<span class='font-bold'>Guang Wang</span>, Fan Zhang,and Desheng Zhang (2019).",
+    "title": "tCharge: A Fleet-Oriented Real-Time Charging Scheduling System for Electric Taxi Fleets.",
+    "link": "ePat_MobiCom.pdf",
+    "source": "The 17th ACM Conference on Embedded Networked Sensor Systems <span class='font-bold'>(ACM SenSys Poster)</span>."
+  },
+   {
+    "author": "<span class='font-bold'>Guang Wang</span> and Desheng Zhang (2019).",
+    "title": "Understanding Long-Term Evolving Mobility and Charging of Shared EV Networks.",
+    "link": "ePat_MobiCom.pdf",
+    "source": "In Proceedings of the 25th Annual International Conference on Mobile Computing and Networking <span class='font-bold'>(ACM MobiCom Poster)</span>."
+  },
+  {
+    "author": "<span class='font-bold'>Guang Wang</span>, Tianhua Xu, Haifeng Wang, and Yunhuai Zou (2016).",
+    "title": "AdaBoost and least square based failure prediction of railway turnouts.",
+    "link": "wang2016adboost.txt",
+    "source": "In 2016 9th IEEE International Symposium on Computational Intelligence and Design <span class='font-bold'>(IEEE ISCID)</span>."
+  },
      {
     "author": "Kangjia Shao, Zhengyang Zhou, Yang Wang, Xike Xie, and <span class='font-bold'>Guang Wang</span> (2021).",
     "title": "TrajForesee: How limited detailed trajectories enhance large-scale sparse information to predict vehicle trajectories?",
@@ -76,23 +94,5 @@
     "title": "Modeling Fine-Grained Human Mobility on Cellular Networks.",
     "link": "",
     "source": "The Web Conference <span class='font-bold'>(Poster@WWW)</span> 2020."
-  },
-   {
-    "author": "<span class='font-bold'>Guang Wang</span>, Fan Zhang,and Desheng Zhang (2019).",
-    "title": "tCharge: A Fleet-Oriented Real-Time Charging Scheduling System for Electric Taxi Fleets.",
-    "link": "ePat_MobiCom.pdf",
-    "source": "The 17th ACM Conference on Embedded Networked Sensor Systems <span class='font-bold'>(Poster@ACM SenSys)</span>."
-  },
-   {
-    "author": "<span class='font-bold'>Guang Wang</span> and Desheng Zhang (2019).",
-    "title": "Understanding Long-Term Evolving Mobility and Charging of Shared EV Networks.",
-    "link": "ePat_MobiCom.pdf",
-    "source": "In Proceedings of the 25th Annual International Conference on Mobile Computing and Networking <span class='font-bold'>(Poster@ACM MobiCom)</span>."
-  },
-  {
-    "author": "<span class='font-bold'>Guang Wang</span>, Tianhua Xu, Haifeng Wang, and Yunhuai Zou (2016).",
-    "title": "AdaBoost and least square based failure prediction of railway turnouts.",
-    "link": "wang2016adboost.txt",
-    "source": "In 2016 9th IEEE International Symposium on Computational Intelligence and Design <span class='font-bold'>(IEEE ISCID)</span>."
   }
 ]
