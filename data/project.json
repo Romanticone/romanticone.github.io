@@ -24,7 +24,7 @@
     "link": ""
   },
   {
-    "title": "Electric Bus Charging Scheduling (RTSS 2018)",
+    "title": "Electric Bus Charging Scheduling (RTSS 2018, TIST 2020)",
     "content": "In this work, we performed a data-driven observation for operation and charging patterns of large-scale electric bus fleets. Based on the findings and insights we obtained from this investigation, we designed the first electricity pricing-aware real-time charging scheduling system for large-scale electric bus fleets.",
     "figure": "bCharge.png",
     "link": ""
