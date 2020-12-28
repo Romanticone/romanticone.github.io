@@ -38,6 +38,10 @@ myApp.config(['$routeProvider',
         templateUrl: 'pages/material.html',
         controller: 'MaterialCtrl'
       }).
+       when('/data', {
+        templateUrl: 'pages/data.html',
+        controller: 'DataCtrl'
+      }).
       otherwise({
         redirectTo: '/home'
       });
