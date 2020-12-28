@@ -35,7 +35,7 @@ myApp.config(['$routeProvider',
         controller: 'StudentCtrl'
       }).
       when('/material', {
-        templateUrl: 'pages/data.html',
+        templateUrl: 'pages/material.html',
         controller: 'MaterialCtrl'
       }).
       otherwise({
