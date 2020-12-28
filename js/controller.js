@@ -38,7 +38,9 @@ myControllers.controller('HomeCtrl', ['$scope', '$http',
       $scope.magzines = data;
     });
     $http.get('data/conference.json').success(function(data) {
-      $scope.conferences = data;
+      $scope.conferences = data;;
+    $http.get('data/data.json').success(function(data) {
+      $scope.materials = data;
     });
   }
 ]);
@@ -109,6 +111,12 @@ myControllers.controller('StudentCtrl', ['$scope', '$http',
 myControllers.controller('MaterialCtrl', ['$scope', '$http',
   function($scope, $http) {
     $http.get('data/material.json').success(function(data) {
+      $scope.materials = data;
+    });
+    
+myControllers.controller('DataCtrl', ['$scope', '$http',
+  function($scope, $http) {
+    $http.get('data/data.json').success(function(data) {
       $scope.materials = data;
     });
   }
