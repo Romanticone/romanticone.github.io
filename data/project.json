@@ -1,5 +1,11 @@
 [
   {
+    "title": "Socially Informed Services Conflict Governance through Specification, Detection, Resolution and Prevention (NSF SCC)",
+    "content": "Smart city services are deeply embedded in modern cities aiming to enhance various aspects of citizens’ lives. However, underlying expected or unexpected couplings among services due to complex interactions of social and physical activities are under-explored, which lead to potential conflicts. Using City of Newark in New Jersey as a testbed, this project aims to develop ways of reducing conflicts for ensuring social inclusion and equity of city services to achieve a “harmony “ among various city services. This Project is supported by NSF Smart and Connected Community Program with a total budget of $2,300,000. Website: https://gy1211.wixsite.com/smartnewark",
+    "figure": "SmartCity.png",
+    "link": ""
+  },
+  {
     "title": "Shared mobility (Carsharing, Ridesharing, Bikesharing)",
     "content": "Shared mobility, as part of the sharing economy, which is normally app-based and its market has exceeded $60 billion in value across the three largest markets: China, Europe, and the United States. The future will bring even greater gains as self-driving taxis and shuttles become more common. My recent research focuses on investigating different aspects of shared mobility, e.g., user behavior, charging scheduling, and rebalancing. ",
     "figure": "sharedMobility.png",
