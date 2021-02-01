@@ -8,13 +8,13 @@
      {
     "author": "<span class='font-bold'>Guang Wang</span>, Harsh Rajkumar,Huijun Sun,Jianjun Wu,Shuai Wang, and Desheng Zhang (2020).",
     "title": "Understanding User Behavior in Car Sharing Services Through the Lens of Mobility: Mixing Qualitative and Quantitative Studies.",
-    "link": "",
+    "link": "UserBehavior.pdf",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2021."
   },
    {
     "author": "<span class='font-bold'>Guang Wang</span>, Yongfeng Zhang, Zhihan Fang, Fan Zhang, and Desheng Zhang (2020).",
     "title": "FairCharge: A Data-Driven Fairness-Aware Charging Recommendation System for Large-Scale Electric Taxi Fleets.",
-    "link": "https://dl.acm.org/doi/abs/10.1145/3381003",
+    "link": "FairCharge1.pdf",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2020."
   },
   {
@@ -26,13 +26,13 @@
    {
     "author": "<span class='font-bold'>Guang Wang</span>, Wenzhong Li, Jun Zhang, Yingqiang Ge, Zuohui Fu, Fan Zhang, Yang Wang, and Desheng Zhang (2019).",
     "title": "sharedCharging: Data-Driven Shared Charging for Large-Scale Heterogeneous Electric Vehicle Fleets.",
-    "link": "wang2019sharedCharging.txt",
+    "link": "sharedCharging.pdf",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2019."
   },
   {
     "author": "<span class='font-bold'>Guang Wang</span>, Xiaoyang Xie, Fan Zhang, Yunhuai Liu, and Desheng Zhang (2018).",
     "title": "bCharge: Data-Driven Real-Time Charging Scheduling for Large-Scale Electric Bus Fleets.",
-    "link": "wang2018bcharge.txt",
+    "link": "RTSS1.pdf",
     "source": "In 39th IEEE Real-Time Systems Symposium <span class='font-bold'>(IEEE RTSS)</span> 2018."
   },
    {
