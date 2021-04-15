@@ -30,6 +30,12 @@
     "source": "IEEE Intelligent Transportation Systems Magazine <span class='font-bold'>(IEEE ITSM)</span>."
   },
    {
+    "author": "Yao Zhang, Tianhua Xu, Cong Chen, <span class='font-bold'>Guang Wang</span>, Zhizhe Zhang and Tian Xiao (2021).",
+    "title": "A Hierarchical Method Based on Improved Deep Forest and Case-based Reasoning for Railway Turnout Fault Diagnosis.",
+    "link": "",
+    "source": "<span class='font-bold'>Engineering Failure Analysis</span>."
+  },
+   {
     "author": "Hangyu Qi, Tianhua Xu, <span class='font-bold'>Guang Wang</span>, Yu Cheng, and Cong Chen (2020).",
     "title": "MYOLOv3-Tiny: A New Convolutional Neural Network Architecture for Real-time Detection of Track Fasteners.",
     "link": "TurnoutRUL.txt",
