@@ -1,12 +1,18 @@
 [
   {
-    "author": "<span class='font-bold'>Guang Wang</span>, Shuxin Zhong,Shuai Wang,Fei Miao, Zheng Dong, and Desheng Zhang (2020).",
+    "author": "<span class='font-bold'>Guang Wang</span>, Zhou Qin,Shuai Wang,Huijun Sun, Zheng Dong, and Desheng Zhang (2021).",
+    "title": "Joint Real-Time Repositioning and Charging for Electric Carsharing with Dynamic Deadlines.",
+    "link": "",
+    "source": "27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <span class='font-bold'>(ACM SIGKDD)</span> 2021."
+  },
+  {
+    "author": "<span class='font-bold'>Guang Wang</span>, Shuxin Zhong,Shuai Wang,Fei Miao, Zheng Dong, and Desheng Zhang (2021).",
     "title": "Data-Driven Fairness-Aware Vehicle Displacement for Large-Scale Electric Taxi Fleets.",
     "link": "",
     "source": "37th IEEE International Conference on Data Engineering <span class='font-bold'>(IEEE ICDE)</span> 2021."
   },
      {
-    "author": "<span class='font-bold'>Guang Wang</span>, Harsh Rajkumar,Huijun Sun,Jianjun Wu,Shuai Wang, and Desheng Zhang (2020).",
+    "author": "<span class='font-bold'>Guang Wang</span>, Harsh Rajkumar,Huijun Sun,Jianjun Wu,Shuai Wang, and Desheng Zhang (2021).",
     "title": "Understanding User Behavior in Car Sharing Services Through the Lens of Mobility: Mixing Qualitative and Quantitative Studies.",
     "link": "",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2021."
@@ -58,6 +64,12 @@
     "title": "Urban Map Inference by Pervasive Vehicular Sensing Systems with Complementary Mobility.",
     "link": "",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2021."
+  },
+   {
+    "author": "Zhihan Fang, Guang Yang, Dian Zhang, Xiaoyang Xie, <span class='font-bold'>Guang Wang</span>, Yu Yang, Fan Zhang and Desheng Zhang (2021).",
+    "title": "MoCha: Large-Scale Driving Pattern Characterization for Usage-based Insurance.",
+    "link": "",
+    "source": "27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <span class='font-bold'>(ACM SIGKDD)</span> 2021."
   },
      {
     "author": "Kangjia Shao, Yang Wang, Zhengyang Zhou, Xike Xie, and <span class='font-bold'>Guang Wang</span> (2021).",
