@@ -17,18 +17,6 @@
     "link": "",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2021."
   },
-  {
-     "author": "Ruoqing Li, Shuai Su, Jia Qu, Yuan Cao, and <span class='font-bold'>Guang Wang</span>(2021).",
-    "title": "Rail transit fault text classification based on the latent dirichlet allocation.",
-    "link": "",
-    "source": "2021 IEEE International Intelligent Transportation Systems Conference <span class='font-bold'>(ITSC)</span> 2021."
-  },
-    {
-     "author": "Jia Qu, Shuai Su, Ruoqing Li, and <span class='font-bold'>Guang Wang</span>(2021).",
-    "title": "Adversarial training for named entity recognition of rail fault text.",
-    "link": "",
-    "source": "2021 IEEE International Intelligent Transportation Systems Conference <span class='font-bold'>(ITSC)</span> 2021."
-  },
    {
     "author": "<span class='font-bold'>Guang Wang</span>, Yongfeng Zhang, Zhihan Fang, Fan Zhang, and Desheng Zhang (2020).",
     "title": "FairCharge: A Data-Driven Fairness-Aware Charging Recommendation System for Large-Scale Electric Taxi Fleets.",
@@ -88,6 +76,18 @@
     "title": "TrajForesee: How limited detailed trajectories enhance large-scale sparse information to predict vehicle trajectories?",
     "link": "",
     "source": "37th IEEE International Conference on Data Engineering <span class='font-bold'>(IEEE ICDE)</span> 2021."
+  },
+   {
+     "author": "Ruoqing Li, Shuai Su, Jia Qu, Yuan Cao, and <span class='font-bold'>Guang Wang</span> (2021).",
+    "title": "Rail transit fault text classification based on the latent dirichlet allocation.",
+    "link": "",
+    "source": "2021 IEEE International Intelligent Transportation Systems Conference <span class='font-bold'>(ITSC)</span> 2021."
+  },
+    {
+     "author": "Jia Qu, Shuai Su, Ruoqing Li, and <span class='font-bold'>Guang Wang</span> (2021).",
+    "title": "Adversarial training for named entity recognition of rail fault text.",
+    "link": "",
+    "source": "2021 IEEE International Intelligent Transportation Systems Conference <span class='font-bold'>(ITSC)</span> 2021."
   },
      {
     "author": "Zhihan Fang, <span class='font-bold'>Guang Wang</span>, Shuai Wang, Chaoji Zuo, Fan Zhang and Desheng Zhang (2020).",
