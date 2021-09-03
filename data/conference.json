@@ -71,6 +71,12 @@
     "link": "",
     "source": "27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <span class='font-bold'>(ACM SIGKDD)</span> 2021."
   },
+    {
+    "author": "Baoshen Guo, Shuai Wang, Yi Ding, <span class='font-bold'>Guang Wang</span>, Suining He, Desheng Zhang, and Tian He (2021).",
+    "title": "Concurrent Order Dispatch for Instant Delivery with Time-Constrained Actor-Critic Reinforcement Learning.",
+    "link": "",
+    "source": "In 42th IEEE Real-Time Systems Symposium <span class='font-bold'>(IEEE RTSS)</span> 2021."
+  },
      {
     "author": "Kangjia Shao, Yang Wang, Zhengyang Zhou, Xike Xie, and <span class='font-bold'>Guang Wang</span> (2021).",
     "title": "TrajForesee: How limited detailed trajectories enhance large-scale sparse information to predict vehicle trajectories?",
