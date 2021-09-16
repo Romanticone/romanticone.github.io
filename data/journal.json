@@ -24,6 +24,12 @@
     "source": "Expert systems with applications <span class='font-bold'>(ESWA)</span>."
   },
     {
+    "author": "Yao Zhang, Yu Cheng, Tianhua Xu, <span class='font-bold'>Guang Wang</span>, Cong Chen and Tiantian Yang (2021).",
+    "title": "Fault Prediction of Railway Turnout Systems Based on Improved Sparse Auto Encoder and Gated Recurrent Unit Network.",
+    "link": "",
+    "source": "IEEE Transactions on Intelligent Transportation Systems<span class='font-bold'>(IEEE TITS)</span>."
+  },
+    {
     "author": "Shuai Su, Xuekai Wang, Tao Tang, <span class='font-bold'>Guang Wang</span>, and Yuan Cao (2021).",
     "title": "Energy-efficient operation by cooperative control among trains: A multi-agent reinforcement learning approach.",
     "link": "",
