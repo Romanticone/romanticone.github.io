@@ -23,6 +23,12 @@
     "link": "",
     "source": "In 42th IEEE Real-Time Systems Symposium <span class='font-bold'>(IEEE RTSS)</span> 2021 <span class='font-bold'>(Outstanding Paper Awards)</span>."
   },
+   {
+    "author": "Wenjun Lv, <span class='font-bold'>Guang Wang</span>, Yu Yang and Desheng Zhang (2021).",
+    "title": "Mover: Generalizability Verification for Human Mobility Models via Heterogeneous Use Cases.",
+    "link": "",
+    "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2022."
+  },
      {
     "author": "Zhihan Fang, <span class='font-bold'>Guang Wang</span>, Xiaoyang Xie, Fan Zhang and Desheng Zhang (2021).",
     "title": "Urban Map Inference by Pervasive Vehicular Sensing Systems with Complementary Mobility.",
@@ -40,12 +46,6 @@
     "title": "TrajForesee: How limited detailed trajectories enhance large-scale sparse information to predict vehicle trajectories?",
     "link": "",
     "source": "37th IEEE International Conference on Data Engineering <span class='font-bold'>(IEEE ICDE)</span> 2021."
-  },
-       {
-    "author": "Wenjun Lv, <span class='font-bold'>Guang Wang</span>, Yu Yang and Desheng Zhang (2021).",
-    "title": "Mover: Generalizability Verification for Human Mobility Models via Heterogeneous Use Cases.",
-    "link": "",
-    "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2021."
   },
    {
     "author": "<span class='font-bold'>Guang Wang</span>, Yongfeng Zhang, Zhihan Fang, Fan Zhang, and Desheng Zhang (2020).",
