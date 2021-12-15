@@ -71,18 +71,6 @@
     "link": "",
     "source": "In 39th IEEE Real-Time Systems Symposium <span class='font-bold'>(IEEE RTSS)</span> 2018."
   },
-   {
-    "author": "<span class='font-bold'>Guang Wang</span>, Fan Zhang,and Desheng Zhang (2019).",
-    "title": "tCharge: A Fleet-Oriented Real-Time Charging Scheduling System for Electric Taxi Fleets.",
-    "link": "ePat_MobiCom.pdf",
-    "source": "The 17th ACM Conference on Embedded Networked Sensor Systems <span class='font-bold'>(ACM SenSys) Poster Paper</span>."
-  },
-   {
-    "author": "<span class='font-bold'>Guang Wang</span> and Desheng Zhang (2019).",
-    "title": "Understanding Long-Term Evolving Mobility and Charging of Shared EV Networks.",
-    "link": "ePat_MobiCom.pdf",
-    "source": "In Proceedings of the 25th Annual International Conference on Mobile Computing and Networking <span class='font-bold'>(ACM MobiCom) Poster Paper</span>."
-  },
      {
     "author": "Zhihan Fang, <span class='font-bold'>Guang Wang</span>, Shuai Wang, Chaoji Zuo, Fan Zhang and Desheng Zhang (2020).",
     "title": "CellRep: Usage Representativeness Modeling and Correction Based on Multiple City-Scale Cellular Networks.",
@@ -112,29 +100,5 @@
     "title": "coSense: Collaborative Urban-Scale Vehicle Sensing Based on Heterogeneous Fleets.",
     "link": "xie2018.txt",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2019."
-  },
-     {
-     "author": "Ruoqing Li, Shuai Su, Jia Qu, Yuan Cao, and <span class='font-bold'>Guang Wang</span> (2021).",
-    "title": "Rail transit fault text classification based on the latent dirichlet allocation.",
-    "link": "",
-    "source": "2021 IEEE International Intelligent Transportation Systems Conference <span class='font-bold'>(ITSC)</span> 2021."
-  },
-    {
-     "author": "Jia Qu, Shuai Su, Ruoqing Li, and <span class='font-bold'>Guang Wang</span> (2021).",
-    "title": "Adversarial training for named entity recognition of rail fault text.",
-    "link": "",
-    "source": "2021 IEEE International Intelligent Transportation Systems Conference <span class='font-bold'>(ITSC)</span> 2021."
-  },
-    {
-    "author": "<span class='font-bold'>Guang Wang</span>, Tianhua Xu, Haifeng Wang, and Yunhuai Zou (2016).",
-    "title": "AdaBoost and least square based failure prediction of railway turnouts.",
-    "link": "",
-    "source": "In 2016 9th IEEE International Symposium on Computational Intelligence and Design <span class='font-bold'>(IEEE ISCID)</span>."
-  },
-   {
-    "author": "Zhihan Fang, <span class='font-bold'>Guang Wang</span>, and Desheng Zhang (2020).",
-    "title": "Modeling Fine-Grained Human Mobility on Cellular Networks.",
-    "link": "",
-    "source": "The Web Conference <span class='font-bold'>(Poster@WWW)</span> 2020."
   }
 ]
