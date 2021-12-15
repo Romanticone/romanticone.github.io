@@ -18,7 +18,7 @@
 <!-- &nbsp;&nbsp;&nbsp;<a href=" https://drive.google.com/file/d/1X1M0BsUFN-EN43lto6slDooZI6GezEdG/view?usp=sharing">CV</a> -->
 <!-- <a href="https://connection.mit.edu/">Connection Science</a> working with <a href="https://www.media.mit.edu/people/sandy/overview/"> Prof. Alex 'Sandy' Pentland</a> -->
 <!--Currently, he is also a visiting student at <a href="https://www.media.mit.edu/">MIT Media Lab</a> working with <a href="https://www.media.mit.edu/people/sandy/overview/"> Prof. Alex 'Sandy' Pentland</a> and his group for the <a href="https://connection.mit.edu/">Connection Science program</a>. -->
-<h1 class="title-first">Pulications</h1>
+<h1 class="title-first">Selected Pulications</h1>
 
 <h2 class="subtitle">Conference Papers</h2>
 <ol>
@@ -32,6 +32,13 @@
   <li ng-repeat="j in journals">
 <!--     <p><span ng-bind-html="j.author"></span> <a href="files/{{j.link}}">{{j.title}}</a> {{j.source}}</p> -->
     <p><span ng-bind-html="j.author"></span> <a href="files/{{j.link}}">{{j.title}}</a> <span ng-bind-html="j.source"></span></p>
+  </li>
+</ol>
+<h2 class="subtitle">Theses</h2>
+<ol>
+  <li ng-repeat="m in magzines">
+<!--     <p><span ng-bind-html="j.author"></span> <a href="files/{{j.link}}">{{j.title}}</a> {{j.source}}</p> -->
+    <p><span ng-bind-html="m.author"></span> <a href="files/{{m.link}}">{{m.title}}</a> <span ng-bind-html="m.source"></span></p>
   </li>
 </ol>
 
