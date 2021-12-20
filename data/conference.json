@@ -2,13 +2,13 @@
   {
     "author": "<span class='font-bold'>Guang Wang</span>, Zhou Qin,Shuai Wang,Huijun Sun, Zheng Dong, and Desheng Zhang (2021).",
     "title": "Joint Real-Time Repositioning and Charging for Electric Carsharing with Dynamic Deadlines.",
-    "link": "KDD2021.pdf",
+    "link": "Record.pdf",
     "source": "27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <span class='font-bold'>(ACM SIGKDD)</span> 2021."
   },
   {
     "author": "<span class='font-bold'>Guang Wang</span>, Shuxin Zhong,Shuai Wang,Fei Miao, Zheng Dong, and Desheng Zhang (2021).",
     "title": "Data-Driven Fairness-Aware Vehicle Displacement for Large-Scale Electric Taxi Fleets.",
-    "link": "",
+    "link": "FairMove_ICDE.pdf",
     "source": "37th IEEE International Conference on Data Engineering <span class='font-bold'>(IEEE ICDE)</span> 2021."
   },
   {
@@ -50,7 +50,7 @@
    {
     "author": "<span class='font-bold'>Guang Wang</span>, Yongfeng Zhang, Zhihan Fang, Fan Zhang, and Desheng Zhang (2020).",
     "title": "FairCharge: A Data-Driven Fairness-Aware Charging Recommendation System for Large-Scale Electric Taxi Fleets.",
-    "link": "",
+    "link": "FairCharge.pdf",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2020."
   },
   {
@@ -62,7 +62,7 @@
    {
     "author": "<span class='font-bold'>Guang Wang</span>, Wenzhong Li, Jun Zhang, Yingqiang Ge, Zuohui Fu, Fan Zhang, Yang Wang, and Desheng Zhang (2019).",
     "title": "sharedCharging: Data-Driven Shared Charging for Large-Scale Heterogeneous Electric Vehicle Fleets.",
-    "link": "",
+    "link": "sharedCharging.pdf",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2019."
   },
   {
