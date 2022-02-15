@@ -17,11 +17,35 @@
     "link": "Carsharing.pdf",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2021."
   },
- {
+     {
+    "author": "<span class='font-bold'>Guang Wang</span>, Yongfeng Zhang, Zhihan Fang, Fan Zhang, and Desheng Zhang (2020).",
+    "title": "FairCharge: A Data-Driven Fairness-Aware Charging Recommendation System for Large-Scale Electric Taxi Fleets.",
+    "link": "FairCharge.pdf",
+    "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2020."
+  },
+  {
+    "author": "<span class='font-bold'>Guang Wang</span>, Xiuyuan Chen, Fan Zhang, Yang Wang, and Desheng Zhang (2019).",
+    "title": "Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks.",
+    "link": "ePat_MobiCom.pdf",
+    "source": "In Proceedings of the 25th Annual International Conference on Mobile Computing and Networking <span class='font-bold'>(ACM MobiCom)</span> 2019."
+  },
+   {
+    "author": "<span class='font-bold'>Guang Wang</span>, Wenzhong Li, Jun Zhang, Yingqiang Ge, Zuohui Fu, Fan Zhang, Yang Wang, and Desheng Zhang (2019).",
+    "title": "sharedCharging: Data-Driven Shared Charging for Large-Scale Heterogeneous Electric Vehicle Fleets.",
+    "link": "sharedCharging.pdf",
+    "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2019."
+  },
+  {
+    "author": "<span class='font-bold'>Guang Wang</span>, Xiaoyang Xie, Fan Zhang, Yunhuai Liu, and Desheng Zhang (2018).",
+    "title": "bCharge: Data-Driven Real-Time Charging Scheduling for Large-Scale Electric Bus Fleets.",
+    "link": "bCharge.pdf",
+    "source": "In 39th IEEE Real-Time Systems Symposium <span class='font-bold'>(IEEE RTSS)</span> 2018."
+  },
+   {
     "author": "Baoshen Guo, Shuai Wang, Yi Ding, <span class='font-bold'>Guang Wang</span>, Suining He, Desheng Zhang, and Tian He (2021).",
     "title": "Concurrent Order Dispatch for Instant Delivery with Time-Constrained Actor-Critic Reinforcement Learning.",
     "link": "RTSS21.pdf",
-    "source": "In 42th IEEE Real-Time Systems Symposium <span class='font-bold'>(IEEE RTSS)</span> 2021 <span class='font-bold'>(Outstanding Paper Awards)</span>."
+    "source": "In 42th IEEE Real-Time Systems Symposium <span class='font-bold'>(IEEE RTSS)</span> 2021 <span class='font-bold'>(Outstanding Paper Award)</span>."
   },
    {
     "author": "Wenjun Lv, <span class='font-bold'>Guang Wang</span>, Yu Yang and Desheng Zhang (2021).",
@@ -46,30 +70,6 @@
     "title": "TrajForesee: How limited detailed trajectories enhance large-scale sparse information to predict vehicle trajectories?",
     "link": "",
     "source": "37th IEEE International Conference on Data Engineering <span class='font-bold'>(IEEE ICDE)</span> 2021."
-  },
-   {
-    "author": "<span class='font-bold'>Guang Wang</span>, Yongfeng Zhang, Zhihan Fang, Fan Zhang, and Desheng Zhang (2020).",
-    "title": "FairCharge: A Data-Driven Fairness-Aware Charging Recommendation System for Large-Scale Electric Taxi Fleets.",
-    "link": "FairCharge.pdf",
-    "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2020."
-  },
-  {
-    "author": "<span class='font-bold'>Guang Wang</span>, Xiuyuan Chen, Fan Zhang, Yang Wang, and Desheng Zhang (2019).",
-    "title": "Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks.",
-    "link": "ePat_MobiCom.pdf",
-    "source": "In Proceedings of the 25th Annual International Conference on Mobile Computing and Networking <span class='font-bold'>(ACM MobiCom)</span> 2019."
-  },
-   {
-    "author": "<span class='font-bold'>Guang Wang</span>, Wenzhong Li, Jun Zhang, Yingqiang Ge, Zuohui Fu, Fan Zhang, Yang Wang, and Desheng Zhang (2019).",
-    "title": "sharedCharging: Data-Driven Shared Charging for Large-Scale Heterogeneous Electric Vehicle Fleets.",
-    "link": "sharedCharging.pdf",
-    "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2019."
-  },
-  {
-    "author": "<span class='font-bold'>Guang Wang</span>, Xiaoyang Xie, Fan Zhang, Yunhuai Liu, and Desheng Zhang (2018).",
-    "title": "bCharge: Data-Driven Real-Time Charging Scheduling for Large-Scale Electric Bus Fleets.",
-    "link": "bCharge.pdf",
-    "source": "In 39th IEEE Real-Time Systems Symposium <span class='font-bold'>(IEEE RTSS)</span> 2018."
   },
      {
     "author": "Zhihan Fang, <span class='font-bold'>Guang Wang</span>, Shuai Wang, Chaoji Zuo, Fan Zhang and Desheng Zhang (2020).",
