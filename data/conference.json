@@ -6,16 +6,16 @@
     "source": "27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <span class='font-bold'>(ACM SIGKDD)</span> 2021."
   },
   {
-    "author": "<span class='font-bold'>Guang Wang</span>, Shuxin Zhong,Shuai Wang,Fei Miao, Zheng Dong, and Desheng Zhang (2021).",
-    "title": "Data-Driven Fairness-Aware Vehicle Displacement for Large-Scale Electric Taxi Fleets.",
-    "link": "FairMove_ICDE.pdf",
-    "source": "37th IEEE International Conference on Data Engineering <span class='font-bold'>(IEEE ICDE)</span> 2021."
-  },
-  {
     "author": "<span class='font-bold'>Guang Wang</span>, Harsh Rajkumar,Huijun Sun,Jianjun Wu,Shuai Wang, and Desheng Zhang (2021).",
     "title": "Understanding User Behavior in Car Sharing Services Through the Lens of Mobility: Mixing Qualitative and Quantitative Studies.",
     "link": "Carsharing.pdf",
     "source": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <span class='font-bold'>(ACM IMWUT/UbiComp)</span> 2021."
+  },
+    {
+    "author": "<span class='font-bold'>Guang Wang</span>, Shuxin Zhong,Shuai Wang,Fei Miao, Zheng Dong, and Desheng Zhang (2021).",
+    "title": "Data-Driven Fairness-Aware Vehicle Displacement for Large-Scale Electric Taxi Fleets.",
+    "link": "FairMove_ICDE.pdf",
+    "source": "37th IEEE International Conference on Data Engineering <span class='font-bold'>(IEEE ICDE)</span> 2021."
   },
      {
     "author": "<span class='font-bold'>Guang Wang</span>, Yongfeng Zhang, Zhihan Fang, Fan Zhang, and Desheng Zhang (2020).",
