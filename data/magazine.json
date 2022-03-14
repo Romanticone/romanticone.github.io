@@ -1,14 +1,20 @@
 [
  {
-    "author": "<span class='font-bold'>Guang Wang</span> (2021).",
-    "title": "Data-Driven Cyber-Physical Systems for Socially Informed Mobility.",
+    "author": "Zhihan Fang, <span class='font-bold'>Guang Wang</span>, and Desheng Zhang (2020).",
+    "title": "Modeling fine-grained human mobility on cellular networks.",
     "link": "",
-    "source": "<span class='font-bold'>Ph.D. Thesis</span>."
+    "source": "Web Conference 2020<span class='font-bold'>(WWW)</span>."
   },
   {
-    "author": "<span class='font-bold'>Guang Wang</span> (2017).",
-    "title": "Failure Prediction of Railway Turnout Systems with Textual Data.",
+    "author": "<span class='font-bold'>Guang Wang</span>, and Desheng Zhang (2019).",
+    "title": "Understanding Long-Term Mobility and Charging Evolving of Shared EV Networks.",
     "link": "",
-    "source": "<span class='font-bold'>Best Master Thesis Award</span>."
+    "source": "The 25th Annual International Conference on Mobile Computing and Networking<span class='font-bold'>(MobiCom)</span>."
+  },
+  {
+    "author": "<span class='font-bold'>Guang Wang</span>, Fan Zhang, and Desheng Zhang (2019).",
+    "title": "A fleet-oriented real-time charging scheduling system for electric taxi fleets.",
+    "link": "",
+    "source": "The 17th Conference on Embedded Networked Sensor Systems<span class='font-bold'>(SenSys)</span>."
   }
 ]
