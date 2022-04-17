@@ -16,23 +16,5 @@
     "title": "A fleet-oriented real-time charging scheduling system for electric taxi fleets.",
     "link": "",
     "source": "The 17th Conference on Embedded Networked Sensor Systems <span class='font-bold'>(SenSys)</span>."
-  },
-    {
-    "author": "Yao Zhang, Tianhua Xu, Cong Chen, <span class='font-bold'>Guang Wang</span>, Zhizhe Zhang and Tian Xiao (2021).",
-    "title": "A Hierarchical Method Based on Improved Deep Forest and Case-based Reasoning for Railway Turnout Fault Diagnosis.",
-    "link": "",
-    "source": "<span class='font-bold'>Engineering Failure Analysis</span>."
-  },
-   {
-    "author": "Cong Chen, Tianhua Xu, <span class='font-bold'>Guang Wang</span>, and Bo Li (2019).",
-    "title": "Railway Turnout System RUL Prediction Based on Feature Fusion and Genetic Programming.",
-    "link": "TurnoutRUL.txt",
-    "source": "<span class='font-bold'>Measurement</span>."
-  },
-  {
-    "author": "Tianhua Xu, <span class='font-bold'>Guang Wang</span>, Haifeng Wang, Tangming Yuan, and Zhiwang Zhong (2016).",
-    "title": "Gap measurement of point machine using adaptive wavelet threshold and mathematical morphology.",
-    "link": "sensorsXu.pdf",
-    "source": "<span class='font-bold'>Sensors</span>."
   }
 ]
