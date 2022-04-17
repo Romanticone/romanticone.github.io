@@ -1,8 +1,0 @@
-@inproceedings{lin2017failure,
-  title={Failure Cause Extraction of Railway Switches Based on Text Mining},
-  author={Lin, Chunni and Wang, Guang},
-  booktitle={Proceedings of the 2017 International Conference on Computer Science and Artificial Intelligence},
-  pages={237--241},
-  year={2017},
-  organization={ACM}
-}
