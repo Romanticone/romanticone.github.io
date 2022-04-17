@@ -11,12 +11,6 @@
     "link": "busCharging.pdf",
     "source": "ACM Transaction on Intelligent Systems and Technology <span class='font-bold'>(ACM TIST)</span>."
   },
-   {
-    "author": "<span class='font-bold'>Guang Wang</span>, Tianhua Xu, Tao Tang, Tangming Yuan, and Haifeng Wang (2017).",
-    "title": "A Bayesian network model for prediction of weather-related failures in railway turnout systems.",
-    "link": "wang2017bayesian.txt",
-    "source": "Expert systems with applications <span class='font-bold'>(ESWA)</span>."
-  },
     {
     "author": "Yao Zhang, Yu Cheng, Tianhua Xu, <span class='font-bold'>Guang Wang</span>, Cong Chen and Tiantian Yang (2021).",
     "title": "Fault Prediction of Railway Turnout Systems Based on Improved Sparse Auto Encoder and Gated Recurrent Unit Network.",
@@ -46,5 +40,11 @@
     "title": "MYOLOv3-Tiny: A New Convolutional Neural Network Architecture for Real-time Detection of Track Fasteners.",
     "link": "TurnoutRUL.txt",
     "source": "<span class='font-bold'>Computers in Industry</span>."
+  },
+    {
+    "author": "<span class='font-bold'>Guang Wang</span>, Tianhua Xu, Tao Tang, Tangming Yuan, and Haifeng Wang (2017).",
+    "title": "A Bayesian network model for prediction of weather-related failures in railway turnout systems.",
+    "link": "wang2017bayesian.txt",
+    "source": "Expert systems with applications <span class='font-bold'>(ESWA)</span>."
   }
 ]
