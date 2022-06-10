@@ -1,15 +1,15 @@
 [
-   {
-    "author": "<span class='font-bold'>Guang Wang</span>, Fan Zhang, Yang Wang, Huijun Sun, and Desheng Zhang (2020).",
-    "title": "Understanding the Long-Term Evolution of Electric Taxi Networks: A Longitudinal Measurement Study on Mobility and Charging Patterns.",
-    "link": "ElectricTaxi.pdf",
-    "source": "ACM Transaction on Intelligent Systems and Technology <span class='font-bold'>(ACM TIST)</span>."
-  },
   {
-    "author": "<span class='font-bold'>Guang Wang</span>, Zhihan Fang, Xiaoyang Xie, Shuai Wang, Huijun Sun, Fan Zhang, Yunhuai Liu, and Desheng Zhang (2020).",
-    "title": "Pricing-Aware Real-Time Charging Scheduling and Charging Station Expansion for Large-Scale Electric Buses.",
-    "link": "busCharging.pdf",
-    "source": "ACM Transaction on Intelligent Systems and Technology <span class='font-bold'>(ACM TIST)</span>."
+    "author": "Shuai Su, Jia Qu, Yuan Cao, Ruoqing Li, <span class='font-bold'>Guang Wang*</span>(2022).",
+    "title": "Adversarial Training Lattice LSTM for Named Entity Recognition of Rail Fault Texts.",
+    "link": "",
+    "source": "IEEE Transactions on Intelligent Transportation Systems<span class='font-bold'>(IEEE TITS)</span>."
+  },
+     {
+    "author": "Pengkun Wang, Chaochao Zhu, Xu Wang, Zhengyang Zhou, Guang Wang, Yang Wang, <span class='font-bold'>Guang Wang</span>(2022).",
+    "title": "Inferring Intersection Traffic Patterns with Sparse Video Surveillance Information: An ST-GAN method.",
+    "link": "",
+    "source": "IEEE Transactions on Vehicular Technology<span class='font-bold'>(IEEE TVT)</span>."
   },
     {
     "author": "Yao Zhang, Yu Cheng, Tianhua Xu, <span class='font-bold'>Guang Wang</span>, Cong Chen and Tiantian Yang (2021).",
@@ -22,6 +22,18 @@
     "title": "Energy-efficient operation by cooperative control among trains: A multi-agent reinforcement learning approach.",
     "link": "",
     "source": "<span class='font-bold'>Control Engineering Practice</span>."
+  },
+   {
+    "author": "<span class='font-bold'>Guang Wang</span>, Fan Zhang, Yang Wang, Huijun Sun, and Desheng Zhang (2020).",
+    "title": "Understanding the Long-Term Evolution of Electric Taxi Networks: A Longitudinal Measurement Study on Mobility and Charging Patterns.",
+    "link": "ElectricTaxi.pdf",
+    "source": "ACM Transaction on Intelligent Systems and Technology <span class='font-bold'>(ACM TIST)</span>."
+  },
+  {
+    "author": "<span class='font-bold'>Guang Wang</span>, Zhihan Fang, Xiaoyang Xie, Shuai Wang, Huijun Sun, Fan Zhang, Yunhuai Liu, and Desheng Zhang (2020).",
+    "title": "Pricing-Aware Real-Time Charging Scheduling and Charging Station Expansion for Large-Scale Electric Buses.",
+    "link": "busCharging.pdf",
+    "source": "ACM Transaction on Intelligent Systems and Technology <span class='font-bold'>(ACM TIST)</span>."
   },
     {
     "author": "Feng Wang, Zhen Zhong, <span class='font-bold'>Guang Wang</span>, and Tao Tang (2020).",
