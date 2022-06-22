@@ -1,5 +1,11 @@
 [
   {
+    "author": "Lige Ding, Dong Zhao, Zhaofeng Wang, <span class='font-bold'>Guang Wang</span>, Chang Tan, Lei Fan and Huadong Ma (2022).",
+    "title": "Learning to Help Emergency Vehicles Arrive Faster: A Cooperative Vehicle-Road Scheduling Approach.",
+    "link": "",
+    "source": "IEEE Transactions on Mobile Computing<span class='font-bold'>(IEEE TMC)</span>."
+  },
+  {
     "author": "Shuai Su, Jia Qu, Yuan Cao, Ruoqing Li, <span class='font-bold'>Guang Wang*</span>(2022).",
     "title": "Adversarial Training Lattice LSTM for Named Entity Recognition of Rail Fault Texts.",
     "link": "",
