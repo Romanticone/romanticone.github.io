@@ -1,4 +1,22 @@
-[
+[  
+  {
+    "author": "Zhiqing Hong, <span class='font-bold'>Guang Wang</span>, Wenjun Lyu, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu and Desheng Zhang (2022).",
+    "title": "CoMiner: Nationwide Behavior-driven Unsupervised Spatial Coordinate Mining from Uncertain Delivery Events.",
+    "link": "",
+    "source": "30th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems <span class='font-bold'>(ACM SIGSPATIAL)</span> 2022."
+  },
+ {
+    "author": "Zhiqing Hong, Heng Yang, Haotian Wang, Wenjun Lyu, Yu Yang, <span class='font-bold'>Guang Wang</span>, Yunhuai Liu, Yang Wang and Desheng Zhang (2022).",
+    "title": "FastAddr: Real-time Abnormal Address Detection via Contrastive Augmentation for Location-based Services.",
+    "link": "",
+    "source": "30th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems <span class='font-bold'>(ACM SIGSPATIAL)</span> 2022."
+  },
+  {
+    "author": "Wenjun Lyu, Kexin Zhang, Baoshen Guo, Zhiqing Hong, Guang Yang, <span class='font-bold'>Guang Wang</span>, Yu Yang, Yunhuai Liu and Desheng Zhang (2022).",
+    "title": "Towards Fair Workload Assessment via Homogeneous Order Grouping in Last-mile Delivery.",
+    "link": "",
+    "source": "31st ACM International Conference on Information and Knowledge Management <span class='font-bold'>(ACM CIKM)</span> 2022."
+  },
   {
     "author": "Wenjun Lv, <span class='font-bold'>Guang Wang</span>, Yu Yang and Desheng Zhang (2022).",
     "title": "Mover: Generalizability Verification for Human Mobility Models via Heterogeneous Use Cases.",
