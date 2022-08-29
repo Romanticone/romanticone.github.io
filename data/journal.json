@@ -1,4 +1,10 @@
 [
+ {
+    "author": "Zhihan Fang1, <span class='font-bold'>Guang Wang1</span>, Yu Yang, Fan Zhang, Yang Wang, and Desheng Zhang (2022).",
+    "title": "A Long-term Travel Delay Measurement Study based on Multi-Modal Human Mobility Data.",
+    "link": "",
+    "source": "<span class='font-bold'>Nature</span> Scientific Reports."
+  },
   {
     "author": "Lige Ding, Dong Zhao, Zhaofeng Wang, <span class='font-bold'>Guang Wang</span>, Chang Tan, Lei Fan and Huadong Ma (2022).",
     "title": "Learning to Help Emergency Vehicles Arrive Faster: A Cooperative Vehicle-Road Scheduling Approach.",
@@ -40,12 +46,6 @@
     "title": "Pricing-Aware Real-Time Charging Scheduling and Charging Station Expansion for Large-Scale Electric Buses.",
     "link": "busCharging.pdf",
     "source": "ACM Transaction on Intelligent Systems and Technology <span class='font-bold'>(ACM TIST)</span>."
-  },
-    {
-    "author": "Feng Wang, Zhen Zhong, <span class='font-bold'>Guang Wang</span>, and Tao Tang (2020).",
-    "title": "A Penalized Convolution Model for Oil Leakage Detection in Electro-hydraulic Railway Point Systems.",
-    "link": "",
-    "source": "IEEE Transactions on Instrumentation & Measurement <span class='font-bold'>(IEEE TIM)</span>."
   },
    {
     "author": "Hangyu Qi, Tianhua Xu, <span class='font-bold'>Guang Wang</span>, Yu Cheng, and Cong Chen (2020).",
