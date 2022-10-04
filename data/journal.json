@@ -21,7 +21,7 @@
     "author": "Shuai Su, Jia Qu, Yuan Cao, Ruoqing Li, <span class='font-bold'>Guang Wang*</span>(2022).",
     "title": "Adversarial Training Lattice LSTM for Named Entity Recognition of Rail Fault Texts.",
     "link": "",
-    "source": "IEEE Transactions on Intelligent Transportation Systems<span class='font-bold'>(IEEE TITS)</span>."
+    "source": "IEEE Transactions on Intelligent Transportation Systems<span class='font-bold'>(IEEE TITS)</span>(*Corresponding author)."
   },
      {
     "author": "Pengkun Wang, Chaochao Zhu, Xu Wang, Zhengyang Zhou, <span class='font-bold'>Guang Wang</span>, Yang Wang (2022).",
@@ -34,12 +34,6 @@
     "title": "Fault Prediction of Railway Turnout Systems Based on Improved Sparse Auto Encoder and Gated Recurrent Unit Network.",
     "link": "",
     "source": "IEEE Transactions on Intelligent Transportation Systems<span class='font-bold'>(IEEE TITS)</span>."
-  },
-    {
-    "author": "Shuai Su, Xuekai Wang, Tao Tang, <span class='font-bold'>Guang Wang</span>, and Yuan Cao (2021).",
-    "title": "Energy-efficient operation by cooperative control among trains: A multi-agent reinforcement learning approach.",
-    "link": "",
-    "source": "<span class='font-bold'>Control Engineering Practice</span>."
   },
    {
     "author": "<span class='font-bold'>Guang Wang</span>, Fan Zhang, Yang Wang, Huijun Sun, and Desheng Zhang (2020).",
