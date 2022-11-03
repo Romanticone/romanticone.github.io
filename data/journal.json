@@ -1,4 +1,10 @@
 [
+    {
+    "author": " Shuai Wang, Xin Zhu, <span class='font-bold'>Guang Wang*</span>, Desheng Zhang, Lai Tu and Tian He (2022).",
+    "title": "W^2Parking: A Data-Driven Win-Win Contract Parking Sharing Mechanism under Both Supply and Demand Uncertainties.",
+    "link": "",
+    "source": "IEEE Transactions on Knowledge and Data Engineering<span class='font-bold'>(IEEE TKDE)</span>(*Corresponding author)."
+  },
   {
     "author": " <span class='font-bold'>Guang Wang</span>, Zhou Qin, Shuai Wang, Huijun Sun, Zheng Dong and Desheng Zhang (2022).",
     "title": "Towards Accessible Shared Autonomous Electric Mobility with Dynamic Deadline Reinforcement Learning.",
