@@ -1,4 +1,9 @@
-[
+[  {
+    "author": " <span class='font-bold'>Guang Wang</span>, Zhou Qin, Shuai Wang, Huijun Sun, Zheng Dong and Desheng Zhang (2022).",
+    "title": "Towards Accessible Shared Autonomous Electric Mobility with Dynamic Deadline Reinforcement Learning.",
+    "link": "",
+    "source": "IEEE Transactions on Mobile Computing<span class='font-bold'>(IEEE TMC)</span>."
+  },
     {
     "author": "<span class='font-bold'>Guang Wang</span>, Yuefei Chen, Shuai Wang, Fan Zhang and Desheng Zhang (2022).",
     "title": "ForETaxi: Data-Driven Fleet-Oriented Charging Resource Allocation in Large-Scale Electric Taxi Networks.",
@@ -10,12 +15,6 @@
     "title": "W^2Parking: A Data-Driven Win-Win Contract Parking Sharing Mechanism under Both Supply and Demand Uncertainties.",
     "link": "",
     "source": "IEEE Transactions on Knowledge and Data Engineering<span class='font-bold'>(IEEE TKDE)</span>(*Corresponding author)."
-  },
-  {
-    "author": " <span class='font-bold'>Guang Wang</span>, Zhou Qin, Shuai Wang, Huijun Sun, Zheng Dong and Desheng Zhang (2022).",
-    "title": "Towards Accessible Shared Autonomous Electric Mobility with Dynamic Deadline Reinforcement Learning.",
-    "link": "",
-    "source": "IEEE Transactions on Mobile Computing<span class='font-bold'>(IEEE TMC)</span>."
   },
  {
     "author": "Zhihan Fang<sup>1</sup>, <span class='font-bold'>Guang Wang<sup>1</sup></span>, Yu Yang, Fan Zhang, Yang Wang, and Desheng Zhang (2022).",
