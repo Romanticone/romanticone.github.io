@@ -1,5 +1,11 @@
 [
     {
+    "author": "<span class='font-bold'>Guang Wang</span>, Yuefei Chen, Shuai Wang, Fan Zhang and Desheng Zhang (2022).",
+    "title": "ForETaxi: Data-Driven Fleet-Oriented Charging Resource Allocation in Large-Scale Electric Taxi Networks.",
+    "link": "",
+    "source": "ACM Transactions on Sensor Networks<span class='font-bold'>(ACM TOSN)</span>."
+  },
+   {
     "author": " Shuai Wang, Xin Zhu, <span class='font-bold'>Guang Wang*</span>, Desheng Zhang, Lai Tu and Tian He (2022).",
     "title": "W^2Parking: A Data-Driven Win-Win Contract Parking Sharing Mechanism under Both Supply and Demand Uncertainties.",
     "link": "",
@@ -52,11 +58,5 @@
     "title": "Pricing-Aware Real-Time Charging Scheduling and Charging Station Expansion for Large-Scale Electric Buses.",
     "link": "busCharging.pdf",
     "source": "ACM Transaction on Intelligent Systems and Technology <span class='font-bold'>(ACM TIST)</span>."
-  },
-    {
-    "author": "<span class='font-bold'>Guang Wang</span>, Tianhua Xu, Tao Tang, Tangming Yuan, and Haifeng Wang (2017).",
-    "title": "A Bayesian network model for prediction of weather-related failures in railway turnout systems.",
-    "link": "wang2017bayesian.txt",
-    "source": "Expert systems with applications <span class='font-bold'>(ESWA)</span>."
   }
 ]
