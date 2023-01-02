@@ -1,4 +1,11 @@
-[  {
+[  
+  {
+    "author": " <span class='font-bold'>Guang Wang</span>, Fan Zhang and Desheng Zhang (2023).",
+    "title": "When Mobility on Demand Meets Vehicle Electrification: A Longitudinal Study on Evolution of City-Scale Ridesharing.",
+    "link": "",
+    "source": "CCF Transactions on Pervasive Computing and Interaction<span class='font-bold'>(CCF TPCI) Invited Paper</span>."
+  },
+    {
     "author": " <span class='font-bold'>Guang Wang</span>, Zhou Qin, Shuai Wang, Huijun Sun, Zheng Dong and Desheng Zhang (2022).",
     "title": "Towards Accessible Shared Autonomous Electric Mobility with Dynamic Deadline Reinforcement Learning.",
     "link": "",
