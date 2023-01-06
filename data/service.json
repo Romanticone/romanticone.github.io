@@ -1,4 +1,13 @@
-[
+[    
+   {
+    "name": "KDD 2023 TPC"
+  }, 
+    {
+    "name": "IJCAI 2023 TPC"
+  }, 
+   {
+    "name": "Frontiers of Engineering Management (FEM) Special Corresponding Expert"
+  }, 
    {
     "name": "ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW 2023) TPC"
   }, 
@@ -8,8 +17,11 @@
   {
     "name": "The Web Conference (WWW 2022) TPC"
   }, 
+    {
+    "name": "The 20th IEEE SmartCity 2022 Publicity Chair"
+  }, 
  {
-    "name": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2019, 2020, 2021, 2022)"
+    "name": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2019-2023)"
   }, 
    {
     "name": "The International AAAI Conference on Web and Social Media (ICWSM 2022) TPC"
@@ -20,6 +32,9 @@
   {
     "name": "Poster and Demo Judge of UbiComp 2021"
   }, 
+  {
+    "name": "ACM Transactions on Recommender Systems (ACM TORS)"
+  },   
   {
     "name": "Nature Scientific Reports"
   },   
