@@ -1,4 +1,10 @@
-[  
+[ 
+  {
+    "author": "Wenjun Lyu,Haotian Wang,Zhiqing Hong,<span class='font-bold'>Guang Wang</span>,Yu Yang,Yunhuai Liu, and Desheng Zhang (2023).",
+    "title": "REDE: Exploring Relay Transportation for Efficient Last-mile Delivery.",
+    "link": "",
+    "source": "39th IEEE International Conference on Data Engineering <span class='font-bold'>(IEEE ICDE)</span> 2023."
+  },
   {
     "author": "Zhiqing Hong, <span class='font-bold'>Guang Wang</span>, Wenjun Lyu, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu and Desheng Zhang (2022).",
     "title": "CoMiner: Nationwide Behavior-driven Unsupervised Spatial Coordinate Mining from Uncertain Delivery Events.",
