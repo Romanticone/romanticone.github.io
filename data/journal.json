@@ -1,4 +1,10 @@
-[  
+[ 
+  {
+    "author": "Shuai Wang, Xin Zhu, <span class='font-bold'>Guang Wang*</span>, Yunhuai Liu, Tian He, and Desheng Zhang (2023).",
+    "title": "eShare+: A Data-Driven Balancing Mechanism for Bike Sharing Systems Considering both Quality of Service and Maintenance.",
+    "link": "",
+    "source": "IEEE Transactions on Knowledge and Data Engineering<span class='font-bold'>(IEEE TKDE)</span>(*Corresponding author)."
+  },
   {
     "author": " <span class='font-bold'>Guang Wang</span>, Fan Zhang and Desheng Zhang (2023).",
     "title": "When Mobility on Demand Meets Vehicle Electrification: A Longitudinal Study on Evolution of City-Scale Ridesharing.",
