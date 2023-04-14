@@ -1,20 +1,29 @@
-<div class="row">
-  <div class="col-md-12">
-    <h1 class="title-first">Current Students</h1>
-    <div class="row vspace-1" ng-repeat="m in members" ng-if="!m.alumni">
-      <div class="col-md-2">
-        <img ng-src="img/{{m.avatar}}" class="img-responsive vspace-3 border-1 stretch" alt="{{m.name}}">
-      </div>
-      <div class="col-md-10">
-        <p class="font-style-2">{{m.name}}</p>
-        <p ng-bind-html="m.intro"></p>
-        <p ng-if="m.publication.length > 0">Publication:</p>
-        <p ng-repeat="p in m.publication">
-          {{p.author}} <a href="files/{{p.link}}">{{p.title}}</a> {{p.source}}
-        </p>
-        <p ng-if="m.honor.length > 0">Award/Honor:</p>
-        <p ng-repeat="h in m.honor">{{h}}</p>
-      </div>
-    </div>
-  </div>
+<h1 class="title-first">STUDENTS</h1>
+
+<div class="container">
+
+
+<p><h3>Ph.D. Students</h3></p> 
+<ul>
+<li>Lin Jiang, Ph.D. in Computer Science, Florida State University, Fall 2023 - present<br/>
+</li> BS & MS, Chien-Shiung Wu Honored College, Southeast University
+</ul>
+
+<p><h3>Master Students</h3></p> 
+<ul>
+<li><p>David Mendelsohn, MS in Computer Science, Florida State University<br>
+	Mentoring time: October 2022 - August 2023<br>
+	BS, Computer Science, Florida State University<br>
+</li>	
+</ul>	
+
+<p><h3>Undergraduate Students</h3></p> 
+<ul>
+<li><p>Ian Bridges, BS in Mathematics, Florida State University<br>
+	Mentoring time: May 2023 - August 2023<br>
+	FSU IDEA Grant Awardee<br>
+</li>	
+</ul>	
+
+
 </div>
