@@ -1,4 +1,10 @@
 [ 
+    {
+    "author": "Lin Jiang, Shuai Wang, Baoshen Guo, Hai Wang, Desheng Zhang, <span class='font-bold'>Guang Wang</span> (2023).",
+    "title": "FairCod: A Fairness-aware Concurrent Dispatch System for Large-scale Instant Delivery Services.",
+    "link": "",
+    "source": "29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <span class='font-bold'>(ACM SIGKDD)</span> 2023."
+  },
   {
     "author": "Wenjun Lyu,Haotian Wang,Zhiqing Hong,<span class='font-bold'>Guang Wang</span>,Yu Yang,Yunhuai Liu, and Desheng Zhang (2023).",
     "title": "REDE: Exploring Relay Transportation for Efficient Last-mile Delivery.",
