@@ -1,9 +1,9 @@
 [
   {
-    "title": "Socially Informed Services Conflict Governance (Supported by NSF SCC Program)",
-    "content": "Smart city services are deeply embedded in modern cities aiming to enhance various aspects of citizens’ lives. However, underlying expected or unexpected couplings among services due to complex interactions of social and physical activities are under-explored, which lead to potential conflicts. Using City of Newark in New Jersey as a testbed, this project aims to develop ways of reducing conflicts for ensuring social inclusion and equity of city services to achieve a “harmony” among various city services. This Project is led by my advisor Prof. Desheng Zhang and supported by NSF Smart and Connected Community Program with a total budget of $2,300,000. Website: https://smartcities.rutgers.edu/",
-    "figure": "SmartCity.png",
-    "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1952096&HistoricalAwards=false"
+    "title": "Research Overview",
+    "content": "Smart city services are deeply embedded in modern cities aiming to enhance various aspects of citizens’ lives. My research focuses on addressing real-world societal challenges related to equity, privacy, resiliency and sustainability by developing cyber(e.g., machine learning algorithms)-physical(e.g., transportation) systems.",
+    "figure": "researchcloud.png",
+    "link": ""
   },
   {
     "title": "Shared mobility (Carsharing, Ridesharing, Bikesharing)",
