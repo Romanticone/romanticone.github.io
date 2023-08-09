@@ -1,4 +1,10 @@
 [ 
+  {
+    "author": "Lin Jiang, Shuai Wang, Baoshen Guo, Hai Wang, Desheng Zhang, <span class='font-bold'>Guang Wang</span> (2023).",
+    "title": "FairCod: A Fairness-aware Concurrent Dispatch System for Large-scale Instant Delivery Services.",
+    "link": "",
+    "source": "29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <span class='font-bold'>(ACM SIGKDD)</span> 2023."
+  },
  {
     "author": "Xiaohui Zhao, Shuai Wang, Hai Wang, Tian He, Desheng Zhang and <span class='font-bold'>Guang Wang</span> (2023).",
     "title": "HST-GT: Heterogeneous Spatial-Temporal Graph Transformer for Delivery Time Estimation in Warehouse-Distribution Integration E-Commerce.", 
@@ -22,12 +28,6 @@
     "title": "Urban-scale POI Updating with Crowd Intelligence.",
     "link": "",
     "source": "32nd ACM International Conference on Information and Knowledge Management <span class='font-bold'>(ACM CIKM)</span> 2023."
-  },
-    {
-    "author": "Lin Jiang, Shuai Wang, Baoshen Guo, Hai Wang, Desheng Zhang, <span class='font-bold'>Guang Wang</span> (2023).",
-    "title": "FairCod: A Fairness-aware Concurrent Dispatch System for Large-scale Instant Delivery Services.",
-    "link": "",
-    "source": "29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <span class='font-bold'>(ACM SIGKDD)</span> 2023."
   },
   {
     "author": "Wenjun Lyu,Haotian Wang,Zhiqing Hong,<span class='font-bold'>Guang Wang</span>,Yu Yang,Yunhuai Liu, and Desheng Zhang (2023).",
