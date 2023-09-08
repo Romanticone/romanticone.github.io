@@ -1,1 +1,38 @@
-
+[ 
+  {
+    "author": "Lin Jiang, Shuai Wang, Baoshen Guo, Hai Wang, Desheng Zhang, <span class='font-bold'>Guang Wang</span> (2023).",
+    "title": "FairCod: A Fairness-aware Concurrent Dispatch System for Large-scale Instant Delivery Services.",
+    "link": "",
+    "source": "29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <span class='font-bold'>(ACM SIGKDD)</span> 2023."
+  },
+ {
+    "author": "Xiaohui Zhao, Shuai Wang, Hai Wang, Tian He, Desheng Zhang and <span class='font-bold'>Guang Wang</span> (2023).",
+    "title": "HST-GT: Heterogeneous Spatial-Temporal Graph Transformer for Delivery Time Estimation in Warehouse-Distribution Integration E-Commerce.", 
+    "link": "",
+    "source": "32nd ACM International Conference on Information and Knowledge Management <span class='font-bold'>(ACM CIKM)</span> 2023."
+  }, 
+ {
+    "author": "Shuxin Zhong, William Yubeaton, Wenjun Lyu, <span class='font-bold'>Guang Wang</span>, Desheng Zhang and Yu Yang (2023).",
+    "title": "RLIFE: Remaining Lifespan Prediction for E-scooters.", 
+    "link": "",
+    "source": "32nd ACM International Conference on Information and Knowledge Management <span class='font-bold'>(ACM CIKM)</span> 2023."
+  }, 
+    {
+    "author": "Zhiqing Hong, Haotian Wang, Wenjun Lyu, Hai Wang, Yunhuai Liu, <span class='font-bold'>Guang Wang*</span>, Tian He and Desheng Zhang* (2023).",
+    "title": "AutoBuild: Automatic Community Building Labeling for Last-mile Delivery.", 
+    "link": "",
+    "source": "32nd ACM International Conference on Information and Knowledge Management <span class='font-bold'>(ACM CIKM)</span> 2023. (*Corresponding authors)"
+  },
+   {
+    "author": "Zhiqing Hong, Dongjiang Cao, Haotian Wang, <span class='font-bold'>Guang Wang*</span>, Tian He and Desheng Zhang* (2023).",
+    "title": "Urban-scale POI Updating with Crowd Intelligence.",
+    "link": "",
+    "source": "32nd ACM International Conference on Information and Knowledge Management <span class='font-bold'>(ACM CIKM)</span> 2023. (*Corresponding authors)"
+  },
+  {
+    "author": "Wenjun Lyu,Haotian Wang,Zhiqing Hong,<span class='font-bold'>Guang Wang</span>,Yu Yang,Yunhuai Liu, and Desheng Zhang (2023).",
+    "title": "REDE: Exploring Relay Transportation for Efficient Last-mile Delivery.",
+    "link": "",
+    "source": "39th IEEE International Conference on Data Engineering <span class='font-bold'>(IEEE ICDE)</span> 2023."
+  },
+]
