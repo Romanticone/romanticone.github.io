@@ -11,12 +11,6 @@
     "link": "",
     "source": "32nd ACM International Conference on Information and Knowledge Management <span class='font-bold'>(ACM CIKM)</span> 2023."
   }, 
- {
-    "author": "Shuxin Zhong, William Yubeaton, Wenjun Lyu, <span class='font-bold'>Guang Wang</span>, Desheng Zhang and Yu Yang (2023).",
-    "title": "RLIFE: Remaining Lifespan Prediction for E-scooters.", 
-    "link": "",
-    "source": "32nd ACM International Conference on Information and Knowledge Management <span class='font-bold'>(ACM CIKM)</span> 2023."
-  }, 
     {
     "author": "Zhiqing Hong, Haotian Wang, Wenjun Lyu, Hai Wang, Yunhuai Liu, <span class='font-bold'>Guang Wang*</span>, Tian He and Desheng Zhang* (2023).",
     "title": "AutoBuild: Automatic Community Building Labeling for Last-mile Delivery.", 
@@ -29,10 +23,40 @@
     "link": "",
     "source": "32nd ACM International Conference on Information and Knowledge Management <span class='font-bold'>(ACM CIKM)</span> 2023. (*Corresponding authors)"
   },
+ {
+    "author": "Shuxin Zhong, William Yubeaton, Wenjun Lyu, <span class='font-bold'>Guang Wang</span>, Desheng Zhang and Yu Yang (2023).",
+    "title": "RLIFE: Remaining Lifespan Prediction for E-scooters.", 
+    "link": "",
+    "source": "32nd ACM International Conference on Information and Knowledge Management <span class='font-bold'>(ACM CIKM)</span> 2023."
+  }, 
   {
     "author": "Wenjun Lyu,Haotian Wang,Zhiqing Hong,<span class='font-bold'>Guang Wang</span>,Yu Yang,Yunhuai Liu, and Desheng Zhang (2023).",
     "title": "REDE: Exploring Relay Transportation for Efficient Last-mile Delivery.",
     "link": "",
     "source": "39th IEEE International Conference on Data Engineering <span class='font-bold'>(IEEE ICDE)</span> 2023."
   },
+   {
+    "author": "Shuai Wang, Xin Zhu, <span class='font-bold'>Guang Wang*</span>, Yunhuai Liu, Tian He, and Desheng Zhang (2023).",
+    "title": "eShare+: A Data-Driven Balancing Mechanism for Bike Sharing Systems Considering both Quality of Service and Maintenance.",
+    "link": "",
+    "source": "IEEE Transactions on Knowledge and Data Engineering<span class='font-bold'>(IEEE TKDE)</span>(*Corresponding author)."
+  },
+  {
+    "author": " <span class='font-bold'>Guang Wang</span>, Fan Zhang and Desheng Zhang (2023).",
+    "title": "When Mobility on Demand Meets Vehicle Electrification: A Longitudinal Study on Evolution of City-Scale Ridesharing.",
+    "link": "",
+    "source": "CCF Transactions on Pervasive Computing and Interaction<span class='font-bold'>(CCF TPCI) </span>."
+  },
+    {
+    "author": " Shuai Wang, Shjie Hu, Baoshen Guo, and <span class='font-bold'>Guang Wang</span> (2023).",
+    "title": "Cross-Region Courier Displacement for On-Demand Delivery with Multi-Agent Reinforcement Learning.",
+    "link": "",
+    "source": "IEEE Transactions on Big Data<span class='font-bold'>(IEEE TBD) </span>."
+  },
+   {
+    "author": "Sihong He, Zhili Zhang, Shuo Han, Lynn Pepin, <span class='font-bold'>Guang Wang</span>, Desheng Zhang, John Stankovic and Fei Miao (2023).",
+    "title": "Data-Driven Distributionally Robust Electric Vehicle Balancing for Autonomous Mobility-on-Demand Systems under Demand and Supply Uncertainties.",
+    "link": "",
+    "source": "IEEE Transactions on Intelligent Transportation Systems<span class='font-bold'>(IEEE TITS)</span>."
+  }
 ]
