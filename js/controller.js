@@ -116,7 +116,7 @@ myControllers.controller('MaterialCtrl', ['$scope', '$http',
     myControllers.controller('DataCtrl', ['$scope', '$http',
   function($scope, $http) {
     $http.get('data/data.json').success(function(data) {
-      $scope.materials = data;
+      $scope.data1 = data;
     });
   }
 ]);
