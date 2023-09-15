@@ -35,7 +35,7 @@ myApp.config(['$routeProvider',
         controller: 'StudentCtrl'
       }).
       when('/material', {
-        templateUrl: 'pages/material.html',
+        templateUrl: 'pages/paperbyyear.html',
         controller: 'MaterialCtrl'
       }).
        when('/data', {
