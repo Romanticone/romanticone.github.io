@@ -29,8 +29,12 @@
     "figure": ""
   }
 ]
-
-,
+  {
+    "title": "Shared mobility (Carsharing, Ridesharing, Bikesharing, E-Scooter Sharing, Shared Autonomous Vehicles)",
+    "content": "Shared mobility, as part of the sharing economy, which is normally app-based and its market has exceeded $60 billion in value across the three largest markets: China, Europe, and the United States. The future will bring even greater gains as self-driving taxis and shuttles become more common. My recent research focuses on investigating different aspects of shared mobility, e.g., user behavior, charging scheduling, and rebalancing. ",
+    "figure": "sharedMobility.png",
+    "link": ""
+  },
   {
     "title": "Fairness-Aware System (ICDE 2021, UbiComp 2020)",
     "content": "In the past a few years, I am always thinking of what research I can do to benefit our society. I realize it would be more meaningful if our research can focus on humans, especially those people who are at a disadvantage. We always talk about Fairness, but it is hard for us to have a consistent definition since different people may have their own ideas. There is a long history of economics and sociologists to seek the answer of fairness, especially in the world with so many high-tech inventions. In this work, we discuss and try to quantify the fairness in the recommendation systems, which has the potential to make the recommendation systems more sustainable and acceptable by users.",
