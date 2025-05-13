@@ -1,7 +1,12 @@
 [
-    {
+ {
     "title": "May, 2025",
     "content": "One paper about Uncertainty Calibration of LLM is accepted by ACL 2025! Congratulations to Zejun!",
+    "figure": ""
+  },
+     {
+    "title": "May, 2025",
+    "content": "One paper about Edge-assisted Autonomous Driving is accepted by ACM Transactions on Embedded Computing Systems (TECS)!",
     "figure": ""
   },
   {
