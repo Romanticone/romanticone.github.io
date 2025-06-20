@@ -182,6 +182,22 @@ ol {
   margin: 5px 0;
 }
 
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+a {
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
 .theme-showcase .navbar .container {
   width: auto;
 }
