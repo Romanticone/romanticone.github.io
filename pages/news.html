@@ -1,4 +1,4 @@
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-12">
     <h1 class="title-first">News</h1>
     <div class="vspace-1" ng-repeat="e in events">
@@ -12,6 +12,24 @@
 		  <p>{{e.content}}</p>
 		</div>
       </div>
+    </div>
+  </div>
+</div>
+ -->
+
+<div class="vspace-1" ng-repeat="e in events">
+  <p class="font-style-2">{{e.title}}</p>
+
+  <!-- 没有图片时，使用 ng-bind-html 显示带链接的内容 -->
+  <p ng-if="e.figure.length <= 0" ng-bind-html="e.content"></p>
+
+  <!-- 有图片时，同样使用 ng-bind-html 显示内容 -->
+  <div class="row" ng-if="e.figure.length > 0">
+    <div class="col-md-4">
+      <img ng-src="img/{{e.figure}}" class="img-responsive stretch">
+    </div>
+    <div class="col-md-8">
+      <p ng-bind-html="e.content"></p>
     </div>
   </div>
 </div>
