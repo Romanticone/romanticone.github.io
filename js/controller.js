@@ -51,13 +51,26 @@ myControllers.controller('HomeCtrl', ['$scope', '$http',
 //   }
 // ]);
 
-myControllers.controller('NewsCtrl', ['$scope', '$http',
-  function($scope, $http) {
+// myControllers.controller('NewsCtrl', ['$scope', '$http',
+//   function($scope, $http) {
+//     $http.get('data/event.json').success(function(data) {
+//       $scope.events = data;
+//     });
+//   }
+// ]);
+
+myControllers.controller('NewsCtrl', ['$scope', '$http', '$sce',
+  function($scope, $http, $sce) {
     $http.get('data/event.json').success(function(data) {
-      $scope.events = data;
+      // 遍历每条 news item，信任其 HTML 内容
+      $scope.events = data.map(function(item) {
+        item.content = $sce.trustAsHtml(item.content);
+        return item;
+      });
     });
   }
 ]);
+
 
 myControllers.controller('PublicationCtrl', ['$scope', '$http',
   function($scope, $http) {
