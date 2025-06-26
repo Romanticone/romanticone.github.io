@@ -1,9 +1,18 @@
 [   
-    {
-    "name": "Associate Editor of PACM IMWUT"
+  {
+    "name": "Associate Editor of Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (PACM IMWUT)"
   },  
   {
-    "name": "TPC of KDD 2025 (both Research Track and ADS Track), AAAI 2025, IJCAI 2025 (both Main track and AI&Social Good track)"
+    "name": "Big Data and Machine Learning Systems Track Co-Chair of The 31st IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS 2025)"
+  }, 
+  {
+    "name": "Co-Chair of The 1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities (SpatialConnect 2025)"
+  },  
+ {
+    "name": "TPC of ICDE 2026"
+  },   
+  {
+    "name": "TPC of KDD 2025 (both Research Track and ADS Track), AAAI 2025, IJCAI 2025 (both Main track and AI&Social Good track), SIGSPATIAL 2025 (short paper track)"
   },  
    {
     "name": "TPC of KDD 2024, AAAI 2024, IJCAI 2024, CIKM 2024, SDM 2024, ICDCS 2024, RTAS2024-BP, ECAI 2024, BigData 2024, ICA3PP 2024"
@@ -43,6 +52,9 @@
   }, 
   {
     "name": "ACM Transactions on Recommender Systems (ACM TORS)"
+  },   
+  {
+    "name": "ACM Transactions on Internet Technology (ACM TOIT)"
   },   
   {
     "name": "Nature Scientific Reports"
