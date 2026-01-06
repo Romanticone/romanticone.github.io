@@ -201,3 +201,16 @@ a {
 .theme-showcase .navbar .container {
   width: auto;
 }
+
+.image-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.image-row img {
+    height: 600px;
+    width: auto;
+    max-width: 100%;
+}
