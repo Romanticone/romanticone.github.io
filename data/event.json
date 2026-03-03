@@ -1,5 +1,10 @@
 [
-      {
+  {
+  "title": "March, 2026",
+    "content": "Delivered a talk about our research in Trajectory Data Generation at FSU-AWS Researcher Showcase and Awards Event! Thanks for the invitation from AWS.",
+    "figure": ""
+  },
+   {
   "title": "March, 2026",
     "content": "One paper about Mobility-Aware Order Relay in Last-mile Delivery was accepted by the IEEE TMC!",
     "figure": ""
@@ -7,7 +12,7 @@
   {
     "title": "February, 2026",
     "content": "Honored to receive the FSU/AWS Research Acceleration Fund! Many thanks to FSU and AWS for the continued support!",
-    "figure": ""
+    "figure": "FSUAWS2026.JPG"
   },
        {
     "title": "February, 2026",
