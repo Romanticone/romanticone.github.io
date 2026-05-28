@@ -1,4 +1,9 @@
-[ 
+[  
+   {
+    "title": "May, 2026",
+    "content": "Congratulations to my three PhD students Lin, Rongchao, and Dahai for receiving the Dean's Award for Doctoral Excellence! There are four awardees this year, three of whom are from my lab, which reflects the outstanding dedication, innovation, and research excellence of my students. I am incredibly proud of their achievements and grateful to work with such talented researchers.",
+    "figure": ""
+  },
    {
     "title": "May, 2026",
     "content": "One paper about billion-scale graph has been accepted for presentation at the VLDB 2026! Congratulations to Jinquan!",
@@ -17,6 +22,11 @@
   {
     "title": "April, 2026",
     "content": "Honored to receive the NSF CISE REU Grant! Many thanks to NSF and CRA for the support!",
+    "figure": ""
+  },
+   {
+    "title": "April, 2026",
+    "content": "Congratulations to my PhD student Lin for receiving the Best Graduate Student Research Award and Baker Scholarship. There were only two recipients of the Best Graduate Student Research Award this year, making this recognition especially prestigious.",
     "figure": ""
   },
   {
